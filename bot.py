@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import argparse
 from dataclasses import asdict, dataclass
-from datetime import datetime
+from datetime import datetime, timezone
 import json
 import logging
 import os
@@ -49,20 +49,25 @@ def get_json(url: str):
 
 
 def post_discord(url: str, release: Release, source: str):
+    embed = {
+        "author": {"name": release.owner[:256]},
+        "title": f"{release.name} v{release.version}"[:256],
+        "url": release.url,
+        "description": release.description[:2000],
+        "color": 0x5546FF,
+        "fields": [
+            {"name": "Total downloads", "value": str(release.downloads)},
+            {"name": "Categories", "value": release.categories[:1024] or "None"},
+            {"name": "Source", "value": source[:1024]},
+        ],
+        "timestamp": datetime.fromtimestamp(release.created, timezone.utc).isoformat(),
+    }
+    if release.icon and https_url(release.icon):
+        embed["thumbnail"] = {"url": release.icon}
     payload = {
         "username": "V Rising Releases",
         "allowed_mentions": {"parse": []},
-        "embeds": [{
-            "title": f"{release.name} · {release.version}"[:256],
-            "url": release.url,
-            "description": release.description[:2000],
-            "color": 0x9B292F,
-            "fields": [
-                {"name": "Author", "value": release.owner[:100], "inline": True},
-                {"name": "Public source", "value": source[:1024]},
-            ],
-            "footer": {"text": "V Rising • Latest release • Public source available"},
-        }],
+        "embeds": [embed],
     }
     send_payload(url, payload)
 
@@ -118,6 +123,9 @@ class Release:
     website: str
     description: str
     url: str
+    icon: str = ""
+    downloads: int = 0
+    categories: str = ""
 
 
 def releases_from_feed(feed, community: str) -> dict[str, Release]:
@@ -138,7 +146,10 @@ def releases_from_feed(feed, community: str) -> dict[str, Release]:
         releases[key] = Release(key, name, owner, latest["version_number"],
                                 datetime.fromisoformat(latest["date_created"]).timestamp(),
                                 latest.get("website_url") or "", latest.get("description") or "",
-                                f"https://thunderstore.io/c/{community}/p/{owner}/{name}/")
+                                f"https://thunderstore.io/c/{community}/p/{owner}/{name}/",
+                                icon=latest.get("icon") or "",
+                                downloads=sum(v.get("downloads", 0) for v in package["versions"]),
+                                categories=", ".join(package.get("categories") or []))
     return releases
 
 
