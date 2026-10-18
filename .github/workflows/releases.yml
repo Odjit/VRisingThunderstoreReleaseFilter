@@ -1,0 +1,74 @@
+name: V Rising release filter
+
+on:
+  issues:
+    types: [opened, edited, reopened]
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+  workflow_dispatch:
+    inputs:
+      test_webhook:
+        description: 'Send a test message without changing release history'
+        required: false
+        default: false
+        type: boolean
+      initialize:
+        description: 'First setup only: create missing announcement history'
+        required: false
+        default: false
+        type: boolean
+      emergency_package:
+        description: 'Emergency mod: exact Team-ModName (leave empty for a normal check)'
+        required: false
+        type: string
+      emergency_version:
+        description: 'Emergency version: exact latest version, such as 1.2.3'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: v-rising-release-filter
+  cancel-in-progress: false
+
+jobs:
+  announce:
+    if: >-
+      github.ref_name == github.event.repository.default_branch &&
+      (github.event_name != 'issues' || startsWith(github.event.issue.title, '[Emergency]'))
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+      - name: Check and announce releases
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          GITHUB_TOKEN: ${{ github.token }}
+          INITIALIZE_STATE: ${{ inputs.initialize || false }}
+          TEST_WEBHOOK: ${{ inputs.test_webhook || false }}
+          EMERGENCY_PACKAGE: ${{ inputs.emergency_package }}
+          EMERGENCY_VERSION: ${{ inputs.emergency_version }}
+        shell: bash
+        run: |
+          args=()
+          if [[ "$TEST_WEBHOOK" == "true" ]]; then
+            args+=(--test-webhook)
+          fi
+          if [[ "$INITIALIZE_STATE" == "true" ]]; then
+            args+=(--initialize-state)
+          fi
+          if [[ -n "$EMERGENCY_PACKAGE" || -n "$EMERGENCY_VERSION" ]]; then
+            args+=(--emergency-package "$EMERGENCY_PACKAGE" --emergency-version "$EMERGENCY_VERSION")
+          fi
+          if [[ "$GITHUB_EVENT_NAME" == "issues" ]]; then
+            args+=(--author-request)
+          fi
+          python bot.py "${args[@]}"

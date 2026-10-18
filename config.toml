@@ -1,0 +1,10 @@
+community = "v-rising"
+cooldown_hours = 24
+blocked_packages = []
+blocked_authors = []
+
+[source_overrides]
+
+[reviewed_sources]
+
+[verified_authors]
