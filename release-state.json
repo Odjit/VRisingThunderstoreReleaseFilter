@@ -492,7 +492,7 @@
       "key": "Loto-Grimoire",
       "last_sent": null,
       "newest": 1792334796.981531,
-      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.136\", \"created\": 1792334796.981531, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.136.png\", \"downloads\": 2545, \"categories\": \"Oakveil Update\"}",
+      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.136\", \"created\": 1792334796.981531, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.136.png\", \"downloads\": 2553, \"categories\": \"Oakveil Update\"}",
       "version": "2.42.136"
     },
     {
@@ -918,16 +918,16 @@
     {
       "key": "TheShadowRealm-Raphael",
       "last_sent": null,
-      "newest": 1792082619.108484,
-      "pending": null,
-      "version": "0.69.0"
+      "newest": 1792354172.890731,
+      "pending": "{\"key\": \"TheShadowRealm-Raphael\", \"name\": \"Raphael\", \"owner\": \"TheShadowRealm\", \"version\": \"0.73.0\", \"created\": 1792354172.890731, \"website\": \"https://github.com/KDavidP1987/Raphael-Lord-of-Wisdom\", \"description\": \"Unified client UI for V Rising server mods (Bloodcraft, Beelzebub, Uriel, Faust, Nyarlathotep, Kindred) plus a standalone chat window. Commands, stats and reports as buttons, forms and overlays. (Formerly BloodCraftHub.)\", \"url\": \"https://thunderstore.io/c/v-rising/p/TheShadowRealm/Raphael/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/TheShadowRealm-Raphael-0.73.0.png\", \"downloads\": 3302, \"categories\": \"Client, Mods, Oakveil Update\"}",
+      "version": "0.73.0"
     },
     {
       "key": "TheShadowRealm-Uriel",
       "last_sent": null,
-      "newest": 1784124462.818193,
-      "pending": null,
-      "version": "0.20.0"
+      "newest": 1792353138.651897,
+      "pending": "{\"key\": \"TheShadowRealm-Uriel\", \"name\": \"Uriel\", \"owner\": \"TheShadowRealm\", \"version\": \"0.22.0\", \"created\": 1792353138.651897, \"website\": \"https://github.com/KDavidP1987/Uriel-Lord-of-Hosts\", \"description\": \"A host of server-side QoL tools: place world objects in your castle, restyle stairs live, share chests and prison cells, and (alpha) turn a castle into an event space with spawned foes and gated doors. Each feature toggleable.\", \"url\": \"https://thunderstore.io/c/v-rising/p/TheShadowRealm/Uriel/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/TheShadowRealm-Uriel-0.22.0.png\", \"downloads\": 1226, \"categories\": \"Mods, Oakveil Update, Server\"}",
+      "version": "0.22.0"
     },
     {
       "key": "Thiaz-AutomaticPvPSwitch",
