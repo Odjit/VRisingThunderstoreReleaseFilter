@@ -1,0 +1,1801 @@
+{
+  "format": 1,
+  "metadata": {
+    "community": "v-rising",
+    "initialized": "1"
+  },
+  "packages": [
+    {
+      "key": "ACP-Guardian2",
+      "last_sent": null,
+      "newest": 1654185176.866009,
+      "pending": null,
+      "version": "2.1.0"
+    },
+    {
+      "key": "ACP-HideInterface",
+      "last_sent": null,
+      "newest": 1654286398.650069,
+      "pending": null,
+      "version": "1.2.0"
+    },
+    {
+      "key": "ACP-NoGameCursor",
+      "last_sent": null,
+      "newest": 1653830349.579539,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "AETeam-VRates",
+      "last_sent": null,
+      "newest": 1789308655.753624,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "AETeam-VStacks",
+      "last_sent": null,
+      "newest": 1789308726.089683,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "Arvahall-ARVAHALL_V_RISING_LITE_MODPACK",
+      "last_sent": null,
+      "newest": 1701190806.435138,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "Arvahall-ARVAHALL_V_RISING_MODPACK",
+      "last_sent": null,
+      "newest": 1700492858.673015,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "BLOODLUST-NpcSpawner",
+      "last_sent": null,
+      "newest": 1792000815.013254,
+      "pending": null,
+      "version": "1.7.1"
+    },
+    {
+      "key": "BepInEx-BepInExPack_V_Rising",
+      "last_sent": null,
+      "newest": 1747505552.654935,
+      "pending": null,
+      "version": "1.733.2"
+    },
+    {
+      "key": "BloodyMary-BloodyNotify",
+      "last_sent": null,
+      "newest": 1703779748.703607,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Brainiac-FamBook",
+      "last_sent": null,
+      "newest": 1783864971.488026,
+      "pending": null,
+      "version": "4.0.0"
+    },
+    {
+      "key": "Brainiac-NoBloodMooonTint",
+      "last_sent": null,
+      "newest": 1776803116.461984,
+      "pending": null,
+      "version": "4.0.0"
+    },
+    {
+      "key": "Brainiac-ScarletTeleportGUI",
+      "last_sent": null,
+      "newest": 1784335160.503328,
+      "pending": null,
+      "version": "1.2.8"
+    },
+    {
+      "key": "Caioreix-BetterMissions",
+      "last_sent": null,
+      "newest": 1747529138.173441,
+      "pending": null,
+      "version": "2.2.0"
+    },
+    {
+      "key": "Caioreix-ChatHistory",
+      "last_sent": null,
+      "newest": 1747693479.897089,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "Caioreix-CoffinSleep",
+      "last_sent": null,
+      "newest": 1747537144.691899,
+      "pending": null,
+      "version": "2.0.4"
+    },
+    {
+      "key": "Cortidd-AGGIUNGI_UN_POSTO_A_TAVOLA_Succhiasangue_Edition",
+      "last_sent": null,
+      "newest": 1681403380.003439,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Crostomos-ArenaBuilds",
+      "last_sent": null,
+      "newest": 1788640153.012321,
+      "pending": null,
+      "version": "0.3.0"
+    },
+    {
+      "key": "DannyProton-BloodcraftMenuUI",
+      "last_sent": null,
+      "newest": 1780903979.140502,
+      "pending": null,
+      "version": "0.1.0"
+    },
+    {
+      "key": "DarkAtra-VRisingDiscordBotCompanion",
+      "last_sent": null,
+      "newest": 1775820469.443568,
+      "pending": null,
+      "version": "0.9.3"
+    },
+    {
+      "key": "Darrean-BloodDrop",
+      "last_sent": null,
+      "newest": 1789412271.304419,
+      "pending": null,
+      "version": "1.0.5"
+    },
+    {
+      "key": "Darrean-BountyForge",
+      "last_sent": null,
+      "newest": 1749082841.794983,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Darrean-CensorForge",
+      "last_sent": null,
+      "newest": 1748297704.367553,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Darrean-EntranceForge",
+      "last_sent": null,
+      "newest": 1749159878.52602,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Darrean-RaidForge",
+      "last_sent": null,
+      "newest": 1785360708.358232,
+      "pending": null,
+      "version": "3.2.2"
+    },
+    {
+      "key": "Darrean-RevealForge",
+      "last_sent": null,
+      "newest": 1748246815.451637,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Darrean-ServantForge",
+      "last_sent": null,
+      "newest": 1746596660.611471,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "Darrean-SoulForge",
+      "last_sent": null,
+      "newest": 1750270633.992358,
+      "pending": null,
+      "version": "2.1.0"
+    },
+    {
+      "key": "Dawiss-NightbaneHardcore",
+      "last_sent": null,
+      "newest": 1746800763.87593,
+      "pending": null,
+      "version": "1.0.7"
+    },
+    {
+      "key": "Dawiss-NightbaneManualEvents",
+      "last_sent": null,
+      "newest": 1742918296.021615,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "Dawiss-NightbaneShardEffect",
+      "last_sent": null,
+      "newest": 1742231934.70001,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Dawiss-PlayersOnline",
+      "last_sent": null,
+      "newest": 1690615758.347522,
+      "pending": null,
+      "version": "1.0.4"
+    },
+    {
+      "key": "EZLife-BloodCraftEZLife",
+      "last_sent": null,
+      "newest": 1782079293.440681,
+      "pending": null,
+      "version": "0.8.2"
+    },
+    {
+      "key": "Elmegaard-QuickStash",
+      "last_sent": null,
+      "newest": 1654440506.618578,
+      "pending": null,
+      "version": "1.2.3"
+    },
+    {
+      "key": "FAiNEL-EclipseFixes",
+      "last_sent": null,
+      "newest": 1792286435.074681,
+      "pending": null,
+      "version": "1.2.8"
+    },
+    {
+      "key": "FAiNEL-ScarletTeleportGUI",
+      "last_sent": null,
+      "newest": 1792285368.242702,
+      "pending": null,
+      "version": "1.7.3"
+    },
+    {
+      "key": "Fated-FatedGates",
+      "last_sent": null,
+      "newest": 1780019469.306947,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Fryke-ArachNOPE",
+      "last_sent": null,
+      "newest": 1784929280.47544,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "Fryke-ChatPlus",
+      "last_sent": null,
+      "newest": 1790657451.839391,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Fryke-CustomAbilities",
+      "last_sent": null,
+      "newest": 1788823429.27145,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "Fryke-DiscordRcon",
+      "last_sent": null,
+      "newest": 1780212596.295133,
+      "pending": null,
+      "version": "1.1.1"
+    },
+    {
+      "key": "Fryke-Keys",
+      "last_sent": null,
+      "newest": 1778822273.343607,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "GGs-DailyQuest",
+      "last_sent": null,
+      "newest": 1779114486.773258,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "GGs-DropTeleportBound",
+      "last_sent": null,
+      "newest": 1783681134.447908,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "GGs-FinishZone",
+      "last_sent": null,
+      "newest": 1775210327.233561,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "GGs-NPCs",
+      "last_sent": null,
+      "newest": 1778515516.258183,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "GGs-PlayerServices",
+      "last_sent": null,
+      "newest": 1782736305.262946,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "GGs-PrisonerBlood",
+      "last_sent": null,
+      "newest": 1777040000.033267,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "Gator-Gator_Bounty",
+      "last_sent": null,
+      "newest": 1725196101.989241,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "Geckuss-CastleLink",
+      "last_sent": null,
+      "newest": 1790191891.081071,
+      "pending": null,
+      "version": "1.1.1"
+    },
+    {
+      "key": "GoDMod-Protector",
+      "last_sent": null,
+      "newest": 1761175043.060844,
+      "pending": null,
+      "version": "0.2.2"
+    },
+    {
+      "key": "H4nz0-V_Rising_Vereena_HUN",
+      "last_sent": null,
+      "newest": 1667278284.632586,
+      "pending": null,
+      "version": "0.0.3"
+    },
+    {
+      "key": "Harminded-QuickBrazier",
+      "last_sent": null,
+      "newest": 1655267758.779715,
+      "pending": null,
+      "version": "0.3.1"
+    },
+    {
+      "key": "Kaltharos-AutoCloseDoors",
+      "last_sent": null,
+      "newest": 1660780752.571524,
+      "pending": null,
+      "version": "1.0.4"
+    },
+    {
+      "key": "Kaltharos-CasualSiege",
+      "last_sent": null,
+      "newest": 1661513812.668795,
+      "pending": null,
+      "version": "0.0.3"
+    },
+    {
+      "key": "Kaltharos-TheJanitor",
+      "last_sent": null,
+      "newest": 1660618851.106912,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "KebunCrom-KebunUI",
+      "last_sent": null,
+      "newest": 1791428686.497254,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "KillingTorcher-DojoArenaKT",
+      "last_sent": null,
+      "newest": 1701735622.56669,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Kindred-KinCaller",
+      "last_sent": null,
+      "newest": 1782352852.590605,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Kindred-KinCreator",
+      "last_sent": null,
+      "newest": 1782183593.106517,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "Kindred-KinImmortal",
+      "last_sent": null,
+      "newest": 1773079868.610397,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Kindred-KinPonds",
+      "last_sent": null,
+      "newest": 1763747078.934597,
+      "pending": null,
+      "version": "1.0.2"
+    },
+    {
+      "key": "Kindred-KinPoolParty",
+      "last_sent": null,
+      "newest": 1751587708.243686,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Kindred-KinThrone",
+      "last_sent": null,
+      "newest": 1750635050.46938,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "Kindred-KindredLogistics",
+      "last_sent": null,
+      "newest": 1768406109.286404,
+      "pending": null,
+      "version": "1.6.1"
+    },
+    {
+      "key": "Kinetsu-AdminSpy",
+      "last_sent": null,
+      "newest": 1660769840.149816,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "Kinetsu-CraftChanceModifier",
+      "last_sent": null,
+      "newest": 1659753447.279997,
+      "pending": null,
+      "version": "1.0.2"
+    },
+    {
+      "key": "Kinetsu-DropRateModifier",
+      "last_sent": null,
+      "newest": 1659753406.410983,
+      "pending": null,
+      "version": "1.0.2"
+    },
+    {
+      "key": "Kushzei-ZoomUnlocker",
+      "last_sent": null,
+      "newest": 1708615824.744834,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Loto-Grimoire",
+      "last_sent": null,
+      "newest": 1792299895.410792,
+      "pending": null,
+      "version": "2.42.135"
+    },
+    {
+      "key": "MaxGerman-UnityExplorer_IL2CPP",
+      "last_sent": null,
+      "newest": 1787329713.71813,
+      "pending": null,
+      "version": "4.13.6"
+    },
+    {
+      "key": "Midon-AutoCloseDoors",
+      "last_sent": null,
+      "newest": 1749849875.397688,
+      "pending": null,
+      "version": "3.1.0"
+    },
+    {
+      "key": "Mythic-ServerLaunchFix",
+      "last_sent": null,
+      "newest": 1686698399.510009,
+      "pending": null,
+      "version": "0.2.0"
+    },
+    {
+      "key": "Neanka-Press_F",
+      "last_sent": null,
+      "newest": 1655669182.388572,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "Neanka-ServerTools",
+      "last_sent": null,
+      "newest": 1655058361.766876,
+      "pending": null,
+      "version": "3.1.0"
+    },
+    {
+      "key": "Nightbreak-PopupTotals",
+      "last_sent": null,
+      "newest": 1787327420.352013,
+      "pending": null,
+      "version": "1.2.0"
+    },
+    {
+      "key": "NodusCursorius-RemoveVersionWatermark",
+      "last_sent": null,
+      "newest": 1787254113.516998,
+      "pending": null,
+      "version": "1.0.4"
+    },
+    {
+      "key": "Nopey-ChatCommands",
+      "last_sent": null,
+      "newest": 1654945067.644643,
+      "pending": null,
+      "version": "1.3.0"
+    },
+    {
+      "key": "PP-PPRising",
+      "last_sent": null,
+      "newest": 1654705519.048211,
+      "pending": null,
+      "version": "0.0.3"
+    },
+    {
+      "key": "Papaskank-SkanksAIO",
+      "last_sent": null,
+      "newest": 1659147189.733649,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Papaskank-WordBanisher",
+      "last_sent": null,
+      "newest": 1663705605.685574,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Paps-PotionsHaveContainers",
+      "last_sent": null,
+      "newest": 1666881303.389039,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Perkshop-PerkShop",
+      "last_sent": null,
+      "newest": 1780374576.52571,
+      "pending": null,
+      "version": "0.3.0"
+    },
+    {
+      "key": "Phnxsmv-VRisingControllerVibration",
+      "last_sent": null,
+      "newest": 1778979332.551575,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Phnxsmv-VRisingTextureReplacer",
+      "last_sent": null,
+      "newest": 1778175692.756997,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "PinkyTwinky-SlotSort",
+      "last_sent": null,
+      "newest": 1782041713.7493,
+      "pending": null,
+      "version": "1.2.0"
+    },
+    {
+      "key": "PureDark-VRisingPerfMod",
+      "last_sent": null,
+      "newest": 1669223332.27434,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "QSCustom-404_Mod_Pack",
+      "last_sent": null,
+      "newest": 1721163647.944465,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "RPGMods-RPGMods",
+      "last_sent": null,
+      "newest": 1661881604.583953,
+      "pending": null,
+      "version": "1.2.4"
+    },
+    {
+      "key": "Rianaid-MuteChatPlayer",
+      "last_sent": null,
+      "newest": 1717374359.345857,
+      "pending": null,
+      "version": "0.1.0"
+    },
+    {
+      "key": "Rianaid-ShardExtraLife",
+      "last_sent": null,
+      "newest": 1718295833.080943,
+      "pending": null,
+      "version": "0.2.7"
+    },
+    {
+      "key": "Rianaid-StarterKit",
+      "last_sent": null,
+      "newest": 1717507974.792428,
+      "pending": null,
+      "version": "0.1.0"
+    },
+    {
+      "key": "Ruy-HexesAndSanguineSteel",
+      "last_sent": null,
+      "newest": 1781652870.985072,
+      "pending": null,
+      "version": "1.0.3"
+    },
+    {
+      "key": "Samusnews-VRisingDedicatedServerLauncher",
+      "last_sent": null,
+      "newest": 1749750454.3699,
+      "pending": null,
+      "version": "1.0.2"
+    },
+    {
+      "key": "ScarletMods-KeepInventory",
+      "last_sent": null,
+      "newest": 1768081659.058613,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "ScarletMods-ScarletBrazier",
+      "last_sent": null,
+      "newest": 1762999089.978725,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "ScarletMods-ScarletCore",
+      "last_sent": null,
+      "newest": 1762998790.607841,
+      "pending": null,
+      "version": "1.3.11"
+    },
+    {
+      "key": "ScarletMods-ScarletHooks",
+      "last_sent": null,
+      "newest": 1762998832.236447,
+      "pending": null,
+      "version": "1.1.4"
+    },
+    {
+      "key": "ScarletMods-ScarletJackpot",
+      "last_sent": null,
+      "newest": 1762998870.949426,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "ScarletMods-ScarletRCON",
+      "last_sent": null,
+      "newest": 1762999013.416835,
+      "pending": null,
+      "version": "1.2.9"
+    },
+    {
+      "key": "ScarletMods-ScarletRconClient",
+      "last_sent": null,
+      "newest": 1749574744.66612,
+      "pending": null,
+      "version": "1.0.3"
+    },
+    {
+      "key": "ScarletMods-ScarletSigns",
+      "last_sent": null,
+      "newest": 1764602414.481898,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "ScarletMods-ScarletTeleports",
+      "last_sent": null,
+      "newest": 1762999056.958159,
+      "pending": null,
+      "version": "1.2.0"
+    },
+    {
+      "key": "ScarletMods-ScarletTrash",
+      "last_sent": null,
+      "newest": 1762998951.483039,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "Shadez-ChangeName",
+      "last_sent": null,
+      "newest": 1743106901.223368,
+      "pending": null,
+      "version": "1.0.2"
+    },
+    {
+      "key": "Shou-PvPMods",
+      "last_sent": null,
+      "newest": 1689652941.476921,
+      "pending": null,
+      "version": "0.1.1"
+    },
+    {
+      "key": "Shou-RPGMods",
+      "last_sent": null,
+      "newest": 1701465104.046151,
+      "pending": null,
+      "version": "1.8.1"
+    },
+    {
+      "key": "Shou-RPGMods_Experience",
+      "last_sent": null,
+      "newest": 1715840977.666778,
+      "pending": null,
+      "version": "0.9.9"
+    },
+    {
+      "key": "Shou-RPGMods_Waypoints",
+      "last_sent": null,
+      "newest": 1715228265.916772,
+      "pending": null,
+      "version": "0.9.9"
+    },
+    {
+      "key": "Skies-BloodRefill",
+      "last_sent": null,
+      "newest": 1757211529.650927,
+      "pending": null,
+      "version": "2.1.0"
+    },
+    {
+      "key": "Skies-MobKiller",
+      "last_sent": null,
+      "newest": 1690695837.135612,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Skies-PotionsHaveContainers",
+      "last_sent": null,
+      "newest": 1689864949.926074,
+      "pending": null,
+      "version": "1.2.0"
+    },
+    {
+      "key": "Skies-SkanksAIO",
+      "last_sent": null,
+      "newest": 1717182467.110295,
+      "pending": null,
+      "version": "1.6.2"
+    },
+    {
+      "key": "Skies-SpiderKiller",
+      "last_sent": null,
+      "newest": 1747173947.727427,
+      "pending": null,
+      "version": "1.6.0"
+    },
+    {
+      "key": "Skies-VComforts",
+      "last_sent": null,
+      "newest": 1748464341.352295,
+      "pending": null,
+      "version": "0.1.0"
+    },
+    {
+      "key": "SomeName-VRisingDLSS",
+      "last_sent": null,
+      "newest": 1791496441.533466,
+      "pending": null,
+      "version": "0.2.0"
+    },
+    {
+      "key": "SoulVRising-SoulPvEServerClientModPack1",
+      "last_sent": null,
+      "newest": 1748007700.353606,
+      "pending": null,
+      "version": "1.1.1"
+    },
+    {
+      "key": "SoulVRising-SoulPvPServerClientModPack1",
+      "last_sent": null,
+      "newest": 1693339606.470758,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "SoulVRising-Soul_Bloodcraft_PvE_Mod_Pack",
+      "last_sent": null,
+      "newest": 1767779684.173454,
+      "pending": null,
+      "version": "1.0.2"
+    },
+    {
+      "key": "Spence_GOMS-OrdainUI",
+      "last_sent": null,
+      "newest": 1785629946.714779,
+      "pending": null,
+      "version": "0.2.1"
+    },
+    {
+      "key": "Splaticus-PvPKit",
+      "last_sent": null,
+      "newest": 1743980329.008887,
+      "pending": null,
+      "version": "0.1.1"
+    },
+    {
+      "key": "Tchernobill-Dracula_Training_Room",
+      "last_sent": null,
+      "newest": 1792157824.365823,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Team_GreenEye-DeathResistance",
+      "last_sent": null,
+      "newest": 1788972190.752002,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Team_GreenEye-HuntsAndRifts",
+      "last_sent": null,
+      "newest": 1788737675.21788,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Team_GreenEye-PotionPool",
+      "last_sent": null,
+      "newest": 1788740372.509388,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Team_GreenEye-RememberPassword",
+      "last_sent": null,
+      "newest": 1788002163.309592,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "Team_GreenEye-Satisvampory",
+      "last_sent": null,
+      "newest": 1788377891.475071,
+      "pending": null,
+      "version": "1.0.85"
+    },
+    {
+      "key": "TheLostBoys-TLBVRisingPack",
+      "last_sent": null,
+      "newest": 1729461341.55167,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "TheShadowRealm-Beelzebub",
+      "last_sent": null,
+      "newest": 1791164458.606011,
+      "pending": null,
+      "version": "0.137.7"
+    },
+    {
+      "key": "TheShadowRealm-Faust",
+      "last_sent": null,
+      "newest": 1781414535.667003,
+      "pending": null,
+      "version": "0.16.5"
+    },
+    {
+      "key": "TheShadowRealm-Raphael",
+      "last_sent": null,
+      "newest": 1792082619.108484,
+      "pending": null,
+      "version": "0.69.0"
+    },
+    {
+      "key": "TheShadowRealm-Uriel",
+      "last_sent": null,
+      "newest": 1784124462.818193,
+      "pending": null,
+      "version": "0.20.0"
+    },
+    {
+      "key": "Thiaz-AutomaticPvPSwitch",
+      "last_sent": null,
+      "newest": 1780433275.055574,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "Trodi-BloodyBoss",
+      "last_sent": null,
+      "newest": 1788302272.491776,
+      "pending": null,
+      "version": "2.1.5"
+    },
+    {
+      "key": "Trodi-BloodyBossConfig",
+      "last_sent": null,
+      "newest": 1752652312.94389,
+      "pending": null,
+      "version": "1.0.2"
+    },
+    {
+      "key": "Trodi-BloodyCore",
+      "last_sent": null,
+      "newest": 1752436304.140079,
+      "pending": null,
+      "version": "2.0.2"
+    },
+    {
+      "key": "Trodi-BloodyEncounters",
+      "last_sent": null,
+      "newest": 1721201898.560819,
+      "pending": null,
+      "version": "3.0.0"
+    },
+    {
+      "key": "Trodi-BloodyMailBox",
+      "last_sent": null,
+      "newest": 1717874408.214414,
+      "pending": null,
+      "version": "1.0.3"
+    },
+    {
+      "key": "Trodi-BloodyMerchant",
+      "last_sent": null,
+      "newest": 1717873735.726335,
+      "pending": null,
+      "version": "1.0.9"
+    },
+    {
+      "key": "Trodi-BloodyPoint",
+      "last_sent": null,
+      "newest": 1717873805.927171,
+      "pending": null,
+      "version": "2.0.5"
+    },
+    {
+      "key": "Trodi-BloodyRewards",
+      "last_sent": null,
+      "newest": 1747001556.163055,
+      "pending": null,
+      "version": "2.0.0"
+    },
+    {
+      "key": "Trodi-BloodyShop",
+      "last_sent": null,
+      "newest": 1717874626.115755,
+      "pending": null,
+      "version": "1.0.2"
+    },
+    {
+      "key": "Trodi-BloodyWallet",
+      "last_sent": null,
+      "newest": 1746993188.623525,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Trodi-ChatLineColorMod",
+      "last_sent": null,
+      "newest": 1687619087.776499,
+      "pending": null,
+      "version": "2.0.1"
+    },
+    {
+      "key": "Trodi-HideUiMod",
+      "last_sent": null,
+      "newest": 1687618983.638414,
+      "pending": null,
+      "version": "2.0.2"
+    },
+    {
+      "key": "Trodi-Notify",
+      "last_sent": null,
+      "newest": 1746989968.115666,
+      "pending": null,
+      "version": "4.0.1"
+    },
+    {
+      "key": "TwistyGaming-TwistyBloodcraft",
+      "last_sent": null,
+      "newest": 1741465661.547455,
+      "pending": null,
+      "version": "1.3.0"
+    },
+    {
+      "key": "Urchanie-ConfigLimitRemover",
+      "last_sent": null,
+      "newest": 1760720643.642711,
+      "pending": null,
+      "version": "1.1.7"
+    },
+    {
+      "key": "VMods-VMods_Blood_Refill",
+      "last_sent": null,
+      "newest": 1659781651.157785,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "VMods-VMods_Chest_PvP_Protection",
+      "last_sent": null,
+      "newest": 1659551707.887329,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "VMods-VMods_Generic_Chat_Commands",
+      "last_sent": null,
+      "newest": 1659805868.016381,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "VMods-VMods_PvE_Leaderboard",
+      "last_sent": null,
+      "newest": 1659896735.082732,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "VMods-VMods_PvP_Leaderboard",
+      "last_sent": null,
+      "newest": 1659805883.836612,
+      "pending": null,
+      "version": "1.0.2"
+    },
+    {
+      "key": "VMods-VMods_PvP_Punishment",
+      "last_sent": null,
+      "newest": 1659805893.385912,
+      "pending": null,
+      "version": "1.0.4"
+    },
+    {
+      "key": "VMods-VMods_Recover_Empty_Containers",
+      "last_sent": null,
+      "newest": 1659553991.678018,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "VMods-VMods_Resource_Stash_Withdrawal",
+      "last_sent": null,
+      "newest": 1659208698.572289,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "VMods-VMods_Siege_Golem_Tweaker",
+      "last_sent": null,
+      "newest": 1660235833.715996,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "VRisingAddicts-NoGameCursor",
+      "last_sent": null,
+      "newest": 1690992832.743557,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Vapok-BepInExConfigManager",
+      "last_sent": null,
+      "newest": 1686499041.585625,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "Vice_Gaming-Vice_rising",
+      "last_sent": null,
+      "newest": 1717023743.402259,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "XPRising-ClientUI",
+      "last_sent": null,
+      "newest": 1781690045.719444,
+      "pending": null,
+      "version": "0.5.2"
+    },
+    {
+      "key": "XPRising-XPRising",
+      "last_sent": null,
+      "newest": 1781690038.44208,
+      "pending": null,
+      "version": "0.5.2"
+    },
+    {
+      "key": "XPRising-XPShared",
+      "last_sent": null,
+      "newest": 1781690031.714749,
+      "pending": null,
+      "version": "0.5.2"
+    },
+    {
+      "key": "Zanakinz-ZUI",
+      "last_sent": null,
+      "newest": 1768819083.238533,
+      "pending": null,
+      "version": "2.1.0"
+    },
+    {
+      "key": "Zanakinz-ZUIExampleMod",
+      "last_sent": null,
+      "newest": 1768707115.230639,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "Zenaug-RuganVale_VRising_Modpack",
+      "last_sent": null,
+      "newest": 1680610541.486432,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "adainrivers-RandomEncounters",
+      "last_sent": null,
+      "newest": 1660751764.927952,
+      "pending": null,
+      "version": "0.8.6"
+    },
+    {
+      "key": "adayoegi-TideOfWar",
+      "last_sent": null,
+      "newest": 1752069734.84895,
+      "pending": null,
+      "version": "0.1.1"
+    },
+    {
+      "key": "casanova-ChatWheel",
+      "last_sent": null,
+      "newest": 1778560479.168817,
+      "pending": null,
+      "version": "1.0.2"
+    },
+    {
+      "key": "cheesasaurus-Bloodpebble",
+      "last_sent": null,
+      "newest": 1752595621.380524,
+      "pending": null,
+      "version": "1.4.2"
+    },
+    {
+      "key": "cheesasaurus-BoneBanditBrandHit",
+      "last_sent": null,
+      "newest": 1754142364.062868,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "cheesasaurus-EventScheduler",
+      "last_sent": null,
+      "newest": 1756172765.887057,
+      "pending": null,
+      "version": "1.2.2"
+    },
+    {
+      "key": "cheesasaurus-FrostDashFreezeFix",
+      "last_sent": null,
+      "newest": 1750663512.211735,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "cheesasaurus-HookDOTS_API",
+      "last_sent": null,
+      "newest": 1761096427.673347,
+      "pending": null,
+      "version": "1.1.1"
+    },
+    {
+      "key": "cheesasaurus-LoadoutLockdown",
+      "last_sent": null,
+      "newest": 1756460410.526246,
+      "pending": null,
+      "version": "1.3.0"
+    },
+    {
+      "key": "cheesasaurus-PalacePrivileges",
+      "last_sent": null,
+      "newest": 1753096709.972466,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "cheesasaurus-SurgeSuppressor",
+      "last_sent": null,
+      "newest": 1750963775.550239,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "cheesasaurus-SystemsDumper",
+      "last_sent": null,
+      "newest": 1753470799.197922,
+      "pending": null,
+      "version": "1.2.0"
+    },
+    {
+      "key": "cheesasaurus-WallopWarpers",
+      "last_sent": null,
+      "newest": 1753007870.087765,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "deca-CommunityCommands",
+      "last_sent": null,
+      "newest": 1691879359.957552,
+      "pending": null,
+      "version": "0.1.7"
+    },
+    {
+      "key": "deca-Killfeed",
+      "last_sent": null,
+      "newest": 1718258501.018865,
+      "pending": null,
+      "version": "0.3.1"
+    },
+    {
+      "key": "deca-LeadAHorseToWater",
+      "last_sent": null,
+      "newest": 1786939748.855453,
+      "pending": null,
+      "version": "0.8.0"
+    },
+    {
+      "key": "deca-ShutTheFortUp",
+      "last_sent": null,
+      "newest": 1663455782.856002,
+      "pending": null,
+      "version": "0.1.1"
+    },
+    {
+      "key": "deca-VampireCommandFramework",
+      "last_sent": null,
+      "newest": 1776271286.158721,
+      "pending": null,
+      "version": "0.11.0"
+    },
+    {
+      "key": "dokebi-SanguineArchives",
+      "last_sent": null,
+      "newest": 1744465181.815326,
+      "pending": null,
+      "version": "0.1.1"
+    },
+    {
+      "key": "dokebi-SanguinePact",
+      "last_sent": null,
+      "newest": 1739120857.56934,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "ebkr-r2modman",
+      "last_sent": null,
+      "newest": 1790079705.352813,
+      "pending": null,
+      "version": "3.2.20"
+    },
+    {
+      "key": "erumeldir-TrackCrafts",
+      "last_sent": null,
+      "newest": 1655046680.487364,
+      "pending": null,
+      "version": "0.0.5"
+    },
+    {
+      "key": "fumzou-NightBloom",
+      "last_sent": null,
+      "newest": 1771601742.666133,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "fumzou-TrackCrafts",
+      "last_sent": null,
+      "newest": 1771173247.705457,
+      "pending": null,
+      "version": "1.1.1"
+    },
+    {
+      "key": "helskog-AutoConnect",
+      "last_sent": null,
+      "newest": 1747526654.083586,
+      "pending": null,
+      "version": "0.1.2"
+    },
+    {
+      "key": "helskog-Crossveil",
+      "last_sent": null,
+      "newest": 1747526057.504404,
+      "pending": null,
+      "version": "0.1.4"
+    },
+    {
+      "key": "helskog-PleadIgnorance",
+      "last_sent": null,
+      "newest": 1747851539.735772,
+      "pending": null,
+      "version": "0.1.0"
+    },
+    {
+      "key": "helskog-PrisonerExchange",
+      "last_sent": null,
+      "newest": 1748888942.869922,
+      "pending": null,
+      "version": "1.0.6"
+    },
+    {
+      "key": "huhwhat-CustomKill",
+      "last_sent": null,
+      "newest": 1753399942.188544,
+      "pending": null,
+      "version": "1.1.75"
+    },
+    {
+      "key": "iShamTeam-RisingRepair",
+      "last_sent": null,
+      "newest": 1789923754.993276,
+      "pending": null,
+      "version": "1.2.2"
+    },
+    {
+      "key": "iZastic-AutoReady",
+      "last_sent": null,
+      "newest": 1686449878.090059,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "iZastic-IntroSkip",
+      "last_sent": null,
+      "newest": 1686450033.648273,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "iZastic-QuickStash",
+      "last_sent": null,
+      "newest": 1688816951.068764,
+      "pending": null,
+      "version": "1.3.3"
+    },
+    {
+      "key": "iZastic-RemoveVignette",
+      "last_sent": null,
+      "newest": 1686449814.284978,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "jays-VRisingServerApiPlugin",
+      "last_sent": null,
+      "newest": 1686694969.496583,
+      "pending": null,
+      "version": "0.1.4"
+    },
+    {
+      "key": "kaer_xy-SmartQuickStash",
+      "last_sent": null,
+      "newest": 1784361248.794926,
+      "pending": null,
+      "version": "0.1.2"
+    },
+    {
+      "key": "kamikaze-RPGMods",
+      "last_sent": null,
+      "newest": 1657852368.142585,
+      "pending": null,
+      "version": "0.3.1"
+    },
+    {
+      "key": "kamikaze-RPGkamikazeSV",
+      "last_sent": null,
+      "newest": 1659315457.205978,
+      "pending": null,
+      "version": "0.4.4"
+    },
+    {
+      "key": "longchat-LongChat",
+      "last_sent": null,
+      "newest": 1781560207.895689,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "ministerfrolo-DropTeleportBound",
+      "last_sent": null,
+      "newest": 1692661808.45616,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "molenzwiebel-Wetstone",
+      "last_sent": null,
+      "newest": 1663336138.897687,
+      "pending": null,
+      "version": "1.2.0"
+    },
+    {
+      "key": "morphine-PvPDetails",
+      "last_sent": null,
+      "newest": 1748273741.744228,
+      "pending": null,
+      "version": "0.1.1"
+    },
+    {
+      "key": "morphine-VampireDB",
+      "last_sent": null,
+      "newest": 1747854273.43587,
+      "pending": null,
+      "version": "0.1.1"
+    },
+    {
+      "key": "morphine-VampireWebhook",
+      "last_sent": null,
+      "newest": 1747850169.098599,
+      "pending": null,
+      "version": "0.1.0"
+    },
+    {
+      "key": "odjit-KindredArenas",
+      "last_sent": null,
+      "newest": 1748711878.361267,
+      "pending": null,
+      "version": "1.4.0"
+    },
+    {
+      "key": "odjit-KindredCommands",
+      "last_sent": null,
+      "newest": 1752096494.644605,
+      "pending": null,
+      "version": "2.5.8"
+    },
+    {
+      "key": "odjit-KindredExtract",
+      "last_sent": null,
+      "newest": 1768405647.748933,
+      "pending": null,
+      "version": "1.8.2"
+    },
+    {
+      "key": "odjit-KindredInnkeeper",
+      "last_sent": null,
+      "newest": 1749828207.582647,
+      "pending": null,
+      "version": "1.1.4"
+    },
+    {
+      "key": "odjit-KindredPortals",
+      "last_sent": null,
+      "newest": 1746414270.09607,
+      "pending": null,
+      "version": "1.1.3"
+    },
+    {
+      "key": "odjit-KindredSacrifice",
+      "last_sent": null,
+      "newest": 1771271995.608594,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "odjit-KindredSchematics",
+      "last_sent": null,
+      "newest": 1768071910.855667,
+      "pending": null,
+      "version": "1.5.6"
+    },
+    {
+      "key": "odjit-VRoles",
+      "last_sent": null,
+      "newest": 1781138391.918193,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "p1xel8ted-AutoCloseDoors",
+      "last_sent": null,
+      "newest": 1687051747.108316,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "p1xel8ted-CasualSiege",
+      "last_sent": null,
+      "newest": 1687340175.519388,
+      "pending": null,
+      "version": "0.1.0"
+    },
+    {
+      "key": "p1xel8ted-MiscTweaks",
+      "last_sent": null,
+      "newest": 1686455757.006993,
+      "pending": null,
+      "version": "0.1.0"
+    },
+    {
+      "key": "p1xel8ted-PopupTotals",
+      "last_sent": null,
+      "newest": 1686457456.625218,
+      "pending": null,
+      "version": "1.0.7"
+    },
+    {
+      "key": "p1xel8ted-Press_F",
+      "last_sent": null,
+      "newest": 1686461952.92188,
+      "pending": null,
+      "version": "1.2.0"
+    },
+    {
+      "key": "p1xel8ted-QuickBrazier",
+      "last_sent": null,
+      "newest": 1687050121.414469,
+      "pending": null,
+      "version": "0.4.1"
+    },
+    {
+      "key": "p1xel8ted-TheJanitor",
+      "last_sent": null,
+      "newest": 1686823426.541524,
+      "pending": null,
+      "version": "1.0.2"
+    },
+    {
+      "key": "p1xel8ted-TrackCrafts",
+      "last_sent": null,
+      "newest": 1686457303.582325,
+      "pending": null,
+      "version": "0.0.6"
+    },
+    {
+      "key": "panthernet-BloodCraftUI_OnlyFams",
+      "last_sent": null,
+      "newest": 1747761123.92073,
+      "pending": null,
+      "version": "1.1.0"
+    },
+    {
+      "key": "panthernet-UIBuddy",
+      "last_sent": null,
+      "newest": 1747678737.995444,
+      "pending": null,
+      "version": "0.4.0"
+    },
+    {
+      "key": "skytech6-AutoBrazier",
+      "last_sent": null,
+      "newest": 1758304734.139299,
+      "pending": null,
+      "version": "2.0.1"
+    },
+    {
+      "key": "skytech6-CrimsonBanned",
+      "last_sent": null,
+      "newest": 1758312895.64786,
+      "pending": null,
+      "version": "2.1.0"
+    },
+    {
+      "key": "skytech6-CrimsonChatFilter",
+      "last_sent": null,
+      "newest": 1758307725.512189,
+      "pending": null,
+      "version": "2.1.0"
+    },
+    {
+      "key": "skytech6-CrimsonClans",
+      "last_sent": null,
+      "newest": 1761735770.443044,
+      "pending": null,
+      "version": "2.1.1"
+    },
+    {
+      "key": "skytech6-CrimsonDice",
+      "last_sent": null,
+      "newest": 1758311603.768147,
+      "pending": null,
+      "version": "3.1.1"
+    },
+    {
+      "key": "skytech6-CrimsonDropRate",
+      "last_sent": null,
+      "newest": 1747860715.682697,
+      "pending": null,
+      "version": "2.0.0"
+    },
+    {
+      "key": "skytech6-CrimsonEcho",
+      "last_sent": null,
+      "newest": 1761735454.44678,
+      "pending": null,
+      "version": "1.0.5"
+    },
+    {
+      "key": "skytech6-CrimsonFAQ",
+      "last_sent": null,
+      "newest": 1758311231.112064,
+      "pending": null,
+      "version": "2.1.0"
+    },
+    {
+      "key": "skytech6-CrimsonFOV",
+      "last_sent": null,
+      "newest": 1747859735.846011,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "skytech6-CrimsonHunt",
+      "last_sent": null,
+      "newest": 1761737042.600382,
+      "pending": null,
+      "version": "1.0.2"
+    },
+    {
+      "key": "skytech6-CrimsonKey",
+      "last_sent": null,
+      "newest": 1761737409.883806,
+      "pending": null,
+      "version": "1.0.3"
+    },
+    {
+      "key": "skytech6-CrimsonKiller",
+      "last_sent": null,
+      "newest": 1761585211.050589,
+      "pending": null,
+      "version": "1.2.1"
+    },
+    {
+      "key": "skytech6-CrimsonLog",
+      "last_sent": null,
+      "newest": 1761736294.849694,
+      "pending": null,
+      "version": "1.5.0"
+    },
+    {
+      "key": "skytech6-CrimsonMoon",
+      "last_sent": null,
+      "newest": 1761584662.577899,
+      "pending": null,
+      "version": "1.0.3"
+    },
+    {
+      "key": "skytech6-CrimsonQuest",
+      "last_sent": null,
+      "newest": 1748024795.484373,
+      "pending": null,
+      "version": "1.0.0"
+    },
+    {
+      "key": "skytech6-CrimsonSQL",
+      "last_sent": null,
+      "newest": 1758303761.444932,
+      "pending": null,
+      "version": "1.4.5"
+    },
+    {
+      "key": "skytech6-Intro_Skip",
+      "last_sent": null,
+      "newest": 1747977102.036439,
+      "pending": null,
+      "version": "2.0.0"
+    },
+    {
+      "key": "skytech6-JSONRising",
+      "last_sent": null,
+      "newest": 1745963760.749148,
+      "pending": null,
+      "version": "0.1.19"
+    },
+    {
+      "key": "skytech6-OfflineRaidGuard",
+      "last_sent": null,
+      "newest": 1726614376.796001,
+      "pending": null,
+      "version": "0.2.3"
+    },
+    {
+      "key": "skytech6-Remove_Vignette",
+      "last_sent": null,
+      "newest": 1748007885.976071,
+      "pending": null,
+      "version": "2.0.0"
+    },
+    {
+      "key": "skytech6-VAMP",
+      "last_sent": null,
+      "newest": 1761738429.620758,
+      "pending": null,
+      "version": "1.3.3"
+    },
+    {
+      "key": "vauto-VAutomationCore",
+      "last_sent": null,
+      "newest": 1771775469.612127,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "vrising-ModernCamera",
+      "last_sent": null,
+      "newest": 1716527585.953933,
+      "pending": null,
+      "version": "2.0.0"
+    },
+    {
+      "key": "yxzwym-DeathNotDrop",
+      "last_sent": null,
+      "newest": 1748444338.622047,
+      "pending": null,
+      "version": "1.0.1"
+    },
+    {
+      "key": "zfolmt-Bloodcraft",
+      "last_sent": null,
+      "newest": 1792186614.896397,
+      "pending": null,
+      "version": "1.13.26"
+    },
+    {
+      "key": "zfolmt-Eclipse",
+      "last_sent": null,
+      "newest": 1778884930.182882,
+      "pending": null,
+      "version": "1.3.14"
+    },
+    {
+      "key": "zfolmt-Penumbra",
+      "last_sent": null,
+      "newest": 1762179884.802394,
+      "pending": null,
+      "version": "1.2.8"
+    },
+    {
+      "key": "zfolmt-RetroCamera",
+      "last_sent": null,
+      "newest": 1749655070.746824,
+      "pending": null,
+      "version": "1.5.4"
+    }
+  ]
+}
