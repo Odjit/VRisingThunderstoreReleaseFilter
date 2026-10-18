@@ -924,7 +924,7 @@
     },
     {
       "key": "TheShadowRealm-Uriel",
-      "last_sent": null,
+      "last_sent": 1792359529.1032753,
       "newest": 1792353138.651897,
       "pending": "{\"key\": \"TheShadowRealm-Uriel\", \"name\": \"Uriel\", \"owner\": \"TheShadowRealm\", \"version\": \"0.22.0\", \"created\": 1792353138.651897, \"website\": \"https://github.com/KDavidP1987/Uriel-Lord-of-Hosts\", \"description\": \"A host of server-side QoL tools: place world objects in your castle, restyle stairs live, share chests and prison cells, and (alpha) turn a castle into an event space with spawned foes and gated doors. Each feature toggleable.\", \"url\": \"https://thunderstore.io/c/v-rising/p/TheShadowRealm/Uriel/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/TheShadowRealm-Uriel-0.22.0.png\", \"downloads\": 1226, \"categories\": \"Mods, Oakveil Update, Server\"}",
       "version": "0.22.0"
