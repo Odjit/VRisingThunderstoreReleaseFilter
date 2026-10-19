@@ -69,6 +69,13 @@
       "version": "1.733.2"
     },
     {
+      "key": "BiribaMods-CombatMeter",
+      "last_sent": null,
+      "newest": 1792433706.694018,
+      "pending": "{\"key\": \"BiribaMods-CombatMeter\", \"name\": \"CombatMeter\", \"owner\": \"BiribaMods\", \"version\": \"0.1.6\", \"created\": 1792433706.694018, \"website\": \"\", \"description\": \"Native damage and DPS meter with player and enemy rankings, ability breakdowns, and encounter history. Requires server installation and Emberglass (see README).\", \"url\": \"https://thunderstore.io/c/v-rising/p/BiribaMods/CombatMeter/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/BiribaMods-CombatMeter-0.1.6.png\", \"downloads\": 2, \"categories\": \"Oakveil Update, Client, Server, Mods\"}",
+      "version": "0.1.6"
+    },
+    {
       "key": "BloodyMary-BloodyNotify",
       "last_sent": null,
       "newest": 1703779748.703607,
@@ -492,7 +499,7 @@
       "key": "Loto-Grimoire",
       "last_sent": null,
       "newest": 1792413833.162458,
-      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.141\", \"created\": 1792413833.162458, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.141.png\", \"downloads\": 2685, \"categories\": \"Oakveil Update\"}",
+      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.141\", \"created\": 1792413833.162458, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.141.png\", \"downloads\": 2690, \"categories\": \"Oakveil Update\"}",
       "version": "2.42.141"
     },
     {
