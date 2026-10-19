@@ -65,7 +65,6 @@ def post_discord(url: str, release: Release, source: str):
     if release.icon and https_url(release.icon):
         embed["thumbnail"] = {"url": release.icon}
     payload = {
-        "username": "V Rising Releases",
         "allowed_mentions": {"parse": []},
         "embeds": [embed],
     }
@@ -402,7 +401,7 @@ def main():
         sync = GitHubState(initialize=args.initialize_state)
         if args.test_webhook:
             sync.require_admin()
-            send_payload(webhook, {"username": "V Rising Releases", "allowed_mentions": {"parse": []},
+            send_payload(webhook, {"allowed_mentions": {"parse": []},
                                    "content": "Homework for Thiaz"})
             LOG.info("Webhook test sent")
             return 0
