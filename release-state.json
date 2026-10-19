@@ -1115,7 +1115,7 @@
       "key": "VRising_Modders-Progenitor",
       "last_sent": 1792427716.780053,
       "newest": 1792427385.573086,
-      "pending": "{\"key\": \"VRising_Modders-Progenitor\", \"name\": \"Progenitor\", \"owner\": \"VRising_Modders\", \"version\": \"2026.10.162\", \"created\": 1792427385.573086, \"website\": \"https://github.com/VRising-Modders/Progenitor\", \"description\": \"In-game mod manager and modding framework for V Rising. Install, update and set up mods from a Mods menu; join modded servers; hot reload for mod authors.\", \"url\": \"https://thunderstore.io/c/v-rising/p/VRising_Modders/Progenitor/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/VRising_Modders-Progenitor-2026.10.162.png\", \"downloads\": 1, \"categories\": \"Mods, Oakveil Update, Client, Server, Tools\"}",
+      "pending": null,
       "version": "2026.10.162"
     },
     {
