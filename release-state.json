@@ -492,7 +492,7 @@
       "key": "Loto-Grimoire",
       "last_sent": null,
       "newest": 1792413833.162458,
-      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.141\", \"created\": 1792413833.162458, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.141.png\", \"downloads\": 2676, \"categories\": \"Oakveil Update\"}",
+      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.141\", \"created\": 1792413833.162458, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.141.png\", \"downloads\": 2683, \"categories\": \"Oakveil Update\"}",
       "version": "2.42.141"
     },
     {
@@ -1110,6 +1110,13 @@
       "newest": 1690992832.743557,
       "pending": null,
       "version": "1.0.0"
+    },
+    {
+      "key": "VRising_Modders-Progenitor",
+      "last_sent": null,
+      "newest": 1792427385.573086,
+      "pending": "{\"key\": \"VRising_Modders-Progenitor\", \"name\": \"Progenitor\", \"owner\": \"VRising_Modders\", \"version\": \"2026.10.162\", \"created\": 1792427385.573086, \"website\": \"https://github.com/VRising-Modders/Progenitor\", \"description\": \"In-game mod manager and modding framework for V Rising. Install, update and set up mods from a Mods menu; join modded servers; hot reload for mod authors.\", \"url\": \"https://thunderstore.io/c/v-rising/p/VRising_Modders/Progenitor/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/VRising_Modders-Progenitor-2026.10.162.png\", \"downloads\": 1, \"categories\": \"Mods, Oakveil Update, Client, Server, Tools\"}",
+      "version": "2026.10.162"
     },
     {
       "key": "Vapok-BepInExConfigManager",
