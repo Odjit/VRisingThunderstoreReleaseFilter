@@ -1,6 +1,6 @@
 community = "v-rising"
 cooldown_hours = 24
-blocked_packages = []
+blocked_packages = ["ebkr-r2modman"]
 blocked_authors = []
 
 [source_overrides]
