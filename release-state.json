@@ -70,7 +70,7 @@
     },
     {
       "key": "BiribaMods-CombatMeter",
-      "last_sent": null,
+      "last_sent": 1792442719.274828,
       "newest": 1792438987.54156,
       "pending": "{\"key\": \"BiribaMods-CombatMeter\", \"name\": \"CombatMeter\", \"owner\": \"BiribaMods\", \"version\": \"0.2.0\", \"created\": 1792438987.54156, \"website\": \"https://github.com/lucas98sf/CombatMeter\", \"description\": \"TESTING PHASE - not a stable release. In-game damage and DPS meter with player and enemy rankings, ability breakdowns, and encounter history. Requires server installation.\", \"url\": \"https://thunderstore.io/c/v-rising/p/BiribaMods/CombatMeter/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/BiribaMods-CombatMeter-0.2.0.png\", \"downloads\": 5, \"categories\": \"Oakveil Update, Client, Server, Mods\"}",
       "version": "0.2.0"
