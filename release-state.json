@@ -498,9 +498,9 @@
     {
       "key": "Loto-Grimoire",
       "last_sent": null,
-      "newest": 1792504707.924937,
-      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.143\", \"created\": 1792504707.924937, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.143.png\", \"downloads\": 2772, \"categories\": \"Oakveil Update\"}",
-      "version": "2.42.143"
+      "newest": 1792508757.293968,
+      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.144\", \"created\": 1792508757.293968, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.144.png\", \"downloads\": 2779, \"categories\": \"Oakveil Update\"}",
+      "version": "2.42.144"
     },
     {
       "key": "MaxGerman-UnityExplorer_IL2CPP",
