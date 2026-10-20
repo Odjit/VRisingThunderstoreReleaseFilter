@@ -72,7 +72,7 @@
       "key": "BiribaMods-CombatMeter",
       "last_sent": 1792442719.274828,
       "newest": 1792443023.133375,
-      "pending": "{\"key\": \"BiribaMods-CombatMeter\", \"name\": \"CombatMeter\", \"owner\": \"BiribaMods\", \"version\": \"0.2.1\", \"created\": 1792443023.133375, \"website\": \"https://github.com/lucas98sf/CombatMeter\", \"description\": \"In-game damage and DPS meter with player and enemy rankings, ability breakdowns, and encounter history. Requires server installation.\", \"url\": \"https://thunderstore.io/c/v-rising/p/BiribaMods/CombatMeter/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/BiribaMods-CombatMeter-0.2.1.png\", \"downloads\": 27, \"categories\": \"Oakveil Update, Client, Server, Mods\"}",
+      "pending": "{\"key\": \"BiribaMods-CombatMeter\", \"name\": \"CombatMeter\", \"owner\": \"BiribaMods\", \"version\": \"0.2.1\", \"created\": 1792443023.133375, \"website\": \"https://github.com/lucas98sf/CombatMeter\", \"description\": \"In-game damage and DPS meter with player and enemy rankings, ability breakdowns, and encounter history. Requires server installation.\", \"url\": \"https://thunderstore.io/c/v-rising/p/BiribaMods/CombatMeter/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/BiribaMods-CombatMeter-0.2.1.png\", \"downloads\": 28, \"categories\": \"Oakveil Update, Client, Server, Mods\"}",
       "version": "0.2.1"
     },
     {
@@ -499,7 +499,7 @@
       "key": "Loto-Grimoire",
       "last_sent": null,
       "newest": 1792508757.293968,
-      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.144\", \"created\": 1792508757.293968, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.144.png\", \"downloads\": 2793, \"categories\": \"Oakveil Update\"}",
+      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.144\", \"created\": 1792508757.293968, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.144.png\", \"downloads\": 2799, \"categories\": \"Oakveil Update\"}",
       "version": "2.42.144"
     },
     {
