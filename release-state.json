@@ -133,7 +133,7 @@
     },
     {
       "key": "Circuitrinos-VRisingVR",
-      "last_sent": null,
+      "last_sent": 1792713015.183254,
       "newest": 1792711197.268001,
       "pending": "{\"key\": \"Circuitrinos-VRisingVR\", \"name\": \"VRisingVR\", \"owner\": \"Circuitrinos\", \"version\": \"1.0.3\", \"created\": 1792711197.268001, \"website\": \"https://github.com/Circuitrinos/v_rising_vr_mod\", \"description\": \"Play V Rising in VR like a 3D board game: the game's own top-down camera in stereo with head tracking, the HUD floating in front of you, and health bars and names over the characters. Client-side only. Needs SteamVR.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Circuitrinos/VRisingVR/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Circuitrinos-VRisingVR-1.0.3.png\", \"downloads\": 7, \"categories\": \"Oakveil Update, Client\"}",
       "version": "1.0.3"
