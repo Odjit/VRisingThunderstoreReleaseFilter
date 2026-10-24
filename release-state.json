@@ -961,7 +961,7 @@
       "key": "TheShadowRealm-Raphael",
       "last_sent": 1792867216.8590097,
       "newest": 1792865669.248914,
-      "pending": "{\"key\": \"TheShadowRealm-Raphael\", \"name\": \"Raphael\", \"owner\": \"TheShadowRealm\", \"version\": \"0.74.0\", \"created\": 1792865669.248914, \"website\": \"https://github.com/KDavidP1987/Raphael-Lord-of-Wisdom\", \"description\": \"Unified client UI for V Rising server mods (Bloodcraft, Beelzebub, Uriel, Faust, Nyarlathotep, Kindred) plus a standalone chat window. Commands, stats and reports as buttons, forms and overlays. (Formerly BloodCraftHub.)\", \"url\": \"https://thunderstore.io/c/v-rising/p/TheShadowRealm/Raphael/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/TheShadowRealm-Raphael-0.74.0.png\", \"downloads\": 3558, \"categories\": \"Oakveil Update, Client, Mods\"}",
+      "pending": null,
       "version": "0.74.0"
     },
     {
