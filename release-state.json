@@ -140,7 +140,7 @@
     },
     {
       "key": "Circuitrinos-VRisingVR_Passthrough",
-      "last_sent": null,
+      "last_sent": 1792892717.2125192,
       "newest": 1792890485.36463,
       "pending": "{\"key\": \"Circuitrinos-VRisingVR_Passthrough\", \"name\": \"VRisingVR_Passthrough\", \"owner\": \"Circuitrinos\", \"version\": \"1.1.0\", \"created\": 1792890485.36463, \"website\": \"https://github.com/Circuitrinos/v_rising_vr_mod\", \"description\": \"VRisingVR with a window onto your desk for the Steam Frame: hold a mouse side button to see your keyboard, mouse and hands in the headset's passthrough (needs a community chroma-key tool). Use it instead of VRisingVR. Client-side only. Needs SteamVR.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Circuitrinos/VRisingVR_Passthrough/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Circuitrinos-VRisingVR_Passthrough-1.1.0.png\", \"downloads\": 1, \"categories\": \"Oakveil Update, Client\"}",
       "version": "1.1.0"
