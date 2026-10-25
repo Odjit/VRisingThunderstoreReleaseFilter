@@ -134,9 +134,16 @@
     {
       "key": "Circuitrinos-VRisingVR",
       "last_sent": 1792713015.183254,
-      "newest": 1792711197.268001,
-      "pending": null,
-      "version": "1.0.3"
+      "newest": 1792890531.597105,
+      "pending": "{\"key\": \"Circuitrinos-VRisingVR\", \"name\": \"VRisingVR\", \"owner\": \"Circuitrinos\", \"version\": \"1.0.4\", \"created\": 1792890531.597105, \"website\": \"https://github.com/Circuitrinos/v_rising_vr_mod\", \"description\": \"Play V Rising in VR like a 3D board game: the game's own top-down camera in stereo with head tracking, the HUD floating in front of you, and health bars and names over the characters. Client-side only. Needs SteamVR.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Circuitrinos/VRisingVR/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Circuitrinos-VRisingVR-1.0.4.png\", \"downloads\": 30, \"categories\": \"Oakveil Update, Client\"}",
+      "version": "1.0.4"
+    },
+    {
+      "key": "Circuitrinos-VRisingVR_Passthrough",
+      "last_sent": null,
+      "newest": 1792890485.36463,
+      "pending": "{\"key\": \"Circuitrinos-VRisingVR_Passthrough\", \"name\": \"VRisingVR_Passthrough\", \"owner\": \"Circuitrinos\", \"version\": \"1.1.0\", \"created\": 1792890485.36463, \"website\": \"https://github.com/Circuitrinos/v_rising_vr_mod\", \"description\": \"VRisingVR with a window onto your desk for the Steam Frame: hold a mouse side button to see your keyboard, mouse and hands in the headset's passthrough (needs a community chroma-key tool). Use it instead of VRisingVR. Client-side only. Needs SteamVR.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Circuitrinos/VRisingVR_Passthrough/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Circuitrinos-VRisingVR_Passthrough-1.1.0.png\", \"downloads\": 1, \"categories\": \"Oakveil Update, Client\"}",
+      "version": "1.1.0"
     },
     {
       "key": "Cortidd-AGGIUNGI_UN_POSTO_A_TAVOLA_Succhiasangue_Edition",
@@ -849,7 +856,7 @@
       "key": "SomeName-DeepRising",
       "last_sent": null,
       "newest": 1792786822.912026,
-      "pending": "{\"key\": \"SomeName-DeepRising\", \"name\": \"DeepRising\", \"owner\": \"SomeName\", \"version\": \"0.1.0\", \"created\": 1792786822.912026, \"website\": \"\", \"description\": \"A fishing overhaul: 12 new fish, waters, rods and baits, angler levels, a codex, four Legendary fish and a haul you play by hand. Server and client.\", \"url\": \"https://thunderstore.io/c/v-rising/p/SomeName/DeepRising/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/SomeName-DeepRising-0.1.0.png\", \"downloads\": 32, \"categories\": \"Oakveil Update, Client, Server, Mods\"}",
+      "pending": "{\"key\": \"SomeName-DeepRising\", \"name\": \"DeepRising\", \"owner\": \"SomeName\", \"version\": \"0.1.0\", \"created\": 1792786822.912026, \"website\": \"\", \"description\": \"A fishing overhaul: 12 new fish, waters, rods and baits, angler levels, a codex, four Legendary fish and a haul you play by hand. Server and client.\", \"url\": \"https://thunderstore.io/c/v-rising/p/SomeName/DeepRising/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/SomeName-DeepRising-0.1.0.png\", \"downloads\": 34, \"categories\": \"Oakveil Update, Client, Server, Mods\"}",
       "version": "0.1.0"
     },
     {
