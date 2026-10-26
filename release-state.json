@@ -533,9 +533,9 @@
     {
       "key": "Loto-Grimoire",
       "last_sent": null,
-      "newest": 1792961080.177419,
-      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.175\", \"created\": 1792961080.177419, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.175.png\", \"downloads\": 3125, \"categories\": \"Oakveil Update\"}",
-      "version": "2.42.175"
+      "newest": 1792997128.502471,
+      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.176\", \"created\": 1792997128.502471, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.176.png\", \"downloads\": 3127, \"categories\": \"Oakveil Update\"}",
+      "version": "2.42.176"
     },
     {
       "key": "MaxGerman-UnityExplorer_IL2CPP",
@@ -856,7 +856,7 @@
       "key": "SomeName-DeepRising",
       "last_sent": null,
       "newest": 1792786822.912026,
-      "pending": "{\"key\": \"SomeName-DeepRising\", \"name\": \"DeepRising\", \"owner\": \"SomeName\", \"version\": \"0.1.0\", \"created\": 1792786822.912026, \"website\": \"\", \"description\": \"A fishing overhaul: 12 new fish, waters, rods and baits, angler levels, a codex, four Legendary fish and a haul you play by hand. Server and client.\", \"url\": \"https://thunderstore.io/c/v-rising/p/SomeName/DeepRising/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/SomeName-DeepRising-0.1.0.png\", \"downloads\": 59, \"categories\": \"Oakveil Update, Client, Server, Mods\"}",
+      "pending": "{\"key\": \"SomeName-DeepRising\", \"name\": \"DeepRising\", \"owner\": \"SomeName\", \"version\": \"0.1.0\", \"created\": 1792786822.912026, \"website\": \"\", \"description\": \"A fishing overhaul: 12 new fish, waters, rods and baits, angler levels, a codex, four Legendary fish and a haul you play by hand. Server and client.\", \"url\": \"https://thunderstore.io/c/v-rising/p/SomeName/DeepRising/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/SomeName-DeepRising-0.1.0.png\", \"downloads\": 60, \"categories\": \"Oakveil Update, Server, Client, Mods\"}",
       "version": "0.1.0"
     },
     {
@@ -905,7 +905,7 @@
       "key": "Tchernobill-Dracula_Training_Room",
       "last_sent": null,
       "newest": 1792480516.43586,
-      "pending": "{\"key\": \"Tchernobill-Dracula_Training_Room\", \"name\": \"Dracula_Training_Room\", \"owner\": \"Tchernobill\", \"version\": \"1.1.0\", \"created\": 1792480516.43586, \"website\": \"https://www.youtube.com/watch?v=DQgFOGBGl_8\", \"description\": \"Start on Dracula's balcony, select your build, jump in, die, repeat. A portal also takes you to Solarus, Adam, Megara or Talzur.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tchernobill/Dracula_Training_Room/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tchernobill-Dracula_Training_Room-1.1.0.png\", \"downloads\": 36, \"categories\": \"Client, Server\"}",
+      "pending": "{\"key\": \"Tchernobill-Dracula_Training_Room\", \"name\": \"Dracula_Training_Room\", \"owner\": \"Tchernobill\", \"version\": \"1.1.0\", \"created\": 1792480516.43586, \"website\": \"https://www.youtube.com/watch?v=DQgFOGBGl_8\", \"description\": \"Start on Dracula's balcony, select your build, jump in, die, repeat. A portal also takes you to Solarus, Adam, Megara or Talzur.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tchernobill/Dracula_Training_Room/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tchernobill-Dracula_Training_Room-1.1.0.png\", \"downloads\": 37, \"categories\": \"Server, Client\"}",
       "version": "1.1.0"
     },
     {
@@ -988,9 +988,9 @@
     {
       "key": "Tomato144-PVESieges",
       "last_sent": null,
-      "newest": 1792994121.223803,
-      "pending": "{\"key\": \"Tomato144-PVESieges\", \"name\": \"PVESieges\", \"owner\": \"Tomato144\", \"version\": \"1.0.286\", \"created\": 1792994121.223803, \"website\": \"\", \"description\": \"PvE castle sieges: bandits, militia, the Legion and more raid your castle in waves. Sappers bomb your gates, Raid Captains lead the charge, V Blood kills bring revenge raids. Win for loot.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tomato144/PVESieges/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tomato144-PVESieges-1.0.286.png\", \"downloads\": 26, \"categories\": \"Server, Mods\"}",
-      "version": "1.0.286"
+      "newest": 1792997052.812002,
+      "pending": "{\"key\": \"Tomato144-PVESieges\", \"name\": \"PVESieges\", \"owner\": \"Tomato144\", \"version\": \"1.0.288\", \"created\": 1792997052.812002, \"website\": \"\", \"description\": \"PvE castle sieges: bandits, militia, the Legion and more raid your castle in waves. Sappers bomb your gates, Raid Captains lead the charge, V Blood kills bring revenge raids. Win for loot.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tomato144/PVESieges/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tomato144-PVESieges-1.0.288.png\", \"downloads\": 27, \"categories\": \"Server, Mods\"}",
+      "version": "1.0.288"
     },
     {
       "key": "Trodi-BloodyBoss",
