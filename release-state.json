@@ -1498,7 +1498,7 @@
     },
     {
       "key": "jnxldr-PotionDuration",
-      "last_sent": null,
+      "last_sent": 1793116515.1890128,
       "newest": 1793113624.112438,
       "pending": "{\"key\": \"jnxldr-PotionDuration\", \"name\": \"PotionDuration\", \"owner\": \"jnxldr\", \"version\": \"1.0.0\", \"created\": 1793113624.112438, \"website\": \"https://github.com/jnxldr/VRising-PotionDuration\", \"description\": \"Potions, brews and elixirs last as long as you choose (default 2 hours instead of 60 minutes). Install on the server. Install on the client so tooltips show the new time, otherwise they will show the default 60 minutes.\", \"url\": \"https://thunderstore.io/c/v-rising/p/jnxldr/PotionDuration/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/jnxldr-PotionDuration-1.0.0.png\", \"downloads\": 2, \"categories\": \"Oakveil Update, Client, Server, 1.0 Update\"}",
       "version": "1.0.0"
