@@ -289,7 +289,7 @@
       "key": "FAiNEL-Eclipse_by_FAiNEL",
       "last_sent": null,
       "newest": 1792549069.49366,
-      "pending": "{\"key\": \"FAiNEL-Eclipse_by_FAiNEL\", \"name\": \"Eclipse_by_FAiNEL\", \"owner\": \"FAiNEL\", \"version\": \"1.2.9\", \"created\": 1792549069.49366, \"website\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/Eclipse_by_FAiNEL/\", \"description\": \"QoL UI fixes for the EclipsePlus stack (EclipsePlus by Dinasor included, pre-patched for 1.3.9): Stat Bonuses icons, x1.5 synergy markers, tab glow, 4/4 slots, one-click .prestige me buttons, full 28-type leaderboard.\", \"url\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/Eclipse_by_FAiNEL/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/FAiNEL-Eclipse_by_FAiNEL-1.2.9.png\", \"downloads\": 74, \"categories\": \"Client, Mods\"}",
+      "pending": "{\"key\": \"FAiNEL-Eclipse_by_FAiNEL\", \"name\": \"Eclipse_by_FAiNEL\", \"owner\": \"FAiNEL\", \"version\": \"1.2.9\", \"created\": 1792549069.49366, \"website\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/Eclipse_by_FAiNEL/\", \"description\": \"QoL UI fixes for the EclipsePlus stack (EclipsePlus by Dinasor included, pre-patched for 1.3.9): Stat Bonuses icons, x1.5 synergy markers, tab glow, 4/4 slots, one-click .prestige me buttons, full 28-type leaderboard.\", \"url\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/Eclipse_by_FAiNEL/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/FAiNEL-Eclipse_by_FAiNEL-1.2.9.png\", \"downloads\": 74, \"categories\": \"Mods, Client\"}",
       "version": "1.2.9"
     },
     {
@@ -303,7 +303,7 @@
       "key": "FAiNEL-faitp",
       "last_sent": null,
       "newest": 1792767789.897916,
-      "pending": "{\"key\": \"FAiNEL-faitp\", \"name\": \"faitp\", \"owner\": \"FAiNEL\", \"version\": \"1.2.2\", \"created\": 1792767789.897916, \"website\": \"https://wargm.ru/server/81982\", \"description\": \"Client-side teleport panel for V Rising: teleport request popup, online players roster, private/public teleport points with create/delete, castle picker for the Dusk Caller, ru/en interface.\", \"url\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/faitp/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/FAiNEL-faitp-1.2.2.png\", \"downloads\": 164, \"categories\": \"Client, Mods\"}",
+      "pending": "{\"key\": \"FAiNEL-faitp\", \"name\": \"faitp\", \"owner\": \"FAiNEL\", \"version\": \"1.2.2\", \"created\": 1792767789.897916, \"website\": \"https://wargm.ru/server/81982\", \"description\": \"Client-side teleport panel for V Rising: teleport request popup, online players roster, private/public teleport points with create/delete, castle picker for the Dusk Caller, ru/en interface.\", \"url\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/faitp/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/FAiNEL-faitp-1.2.2.png\", \"downloads\": 164, \"categories\": \"Mods, Client\"}",
       "version": "1.2.2"
     },
     {
@@ -541,7 +541,7 @@
       "key": "Loto-Grimoire",
       "last_sent": null,
       "newest": 1793021765.411065,
-      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.178\", \"created\": 1793021765.411065, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.178.png\", \"downloads\": 3246, \"categories\": \"Oakveil Update\"}",
+      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.178\", \"created\": 1793021765.411065, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.178.png\", \"downloads\": 3254, \"categories\": \"Oakveil Update\"}",
       "version": "2.42.178"
     },
     {
@@ -863,7 +863,7 @@
       "key": "SomeName-DeepRising",
       "last_sent": null,
       "newest": 1792786822.912026,
-      "pending": "{\"key\": \"SomeName-DeepRising\", \"name\": \"DeepRising\", \"owner\": \"SomeName\", \"version\": \"0.1.0\", \"created\": 1792786822.912026, \"website\": \"\", \"description\": \"A fishing overhaul: 12 new fish, waters, rods and baits, angler levels, a codex, four Legendary fish and a haul you play by hand. Server and client.\", \"url\": \"https://thunderstore.io/c/v-rising/p/SomeName/DeepRising/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/SomeName-DeepRising-0.1.0.png\", \"downloads\": 70, \"categories\": \"Server, Oakveil Update, Mods, Client\"}",
+      "pending": "{\"key\": \"SomeName-DeepRising\", \"name\": \"DeepRising\", \"owner\": \"SomeName\", \"version\": \"0.1.0\", \"created\": 1792786822.912026, \"website\": \"\", \"description\": \"A fishing overhaul: 12 new fish, waters, rods and baits, angler levels, a codex, four Legendary fish and a haul you play by hand. Server and client.\", \"url\": \"https://thunderstore.io/c/v-rising/p/SomeName/DeepRising/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/SomeName-DeepRising-0.1.0.png\", \"downloads\": 70, \"categories\": \"Mods, Oakveil Update, Client, Server\"}",
       "version": "0.1.0"
     },
     {
@@ -996,7 +996,7 @@
       "key": "Tomato144-PVESieges",
       "last_sent": null,
       "newest": 1793076359.775835,
-      "pending": "{\"key\": \"Tomato144-PVESieges\", \"name\": \"PVESieges\", \"owner\": \"Tomato144\", \"version\": \"1.0.323\", \"created\": 1793076359.775835, \"website\": \"\", \"description\": \"PvE castle sieges: bandits, militia, the Legion and more raid your castle in waves. Sappers bomb your gates, Raid Captains lead the charge, V Blood kills bring revenge raids. Win for loot.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tomato144/PVESieges/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tomato144-PVESieges-1.0.323.png\", \"downloads\": 159, \"categories\": \"Mods, Server\"}",
+      "pending": "{\"key\": \"Tomato144-PVESieges\", \"name\": \"PVESieges\", \"owner\": \"Tomato144\", \"version\": \"1.0.323\", \"created\": 1793076359.775835, \"website\": \"\", \"description\": \"PvE castle sieges: bandits, militia, the Legion and more raid your castle in waves. Sappers bomb your gates, Raid Captains lead the charge, V Blood kills bring revenge raids. Win for loot.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tomato144/PVESieges/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tomato144-PVESieges-1.0.323.png\", \"downloads\": 163, \"categories\": \"Mods, Server\"}",
       "version": "1.0.323"
     },
     {
