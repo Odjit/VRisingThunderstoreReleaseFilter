@@ -134,16 +134,16 @@
     {
       "key": "Circuitrinos-VRisingVR",
       "last_sent": 1792892719.8758457,
-      "newest": 1792890531.597105,
-      "pending": null,
-      "version": "1.0.4"
+      "newest": 1793065747.905522,
+      "pending": "{\"key\": \"Circuitrinos-VRisingVR\", \"name\": \"VRisingVR\", \"owner\": \"Circuitrinos\", \"version\": \"1.0.5\", \"created\": 1793065747.905522, \"website\": \"https://github.com/Circuitrinos/v_rising_vr_mod\", \"description\": \"Play V Rising in VR like a 3D board game: the game's own top-down camera in stereo with head tracking, the HUD floating in front of you, and health bars and names over the characters. Client-side only. Needs SteamVR.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Circuitrinos/VRisingVR/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Circuitrinos-VRisingVR-1.0.5.png\", \"downloads\": 48, \"categories\": \"Oakveil Update, Client\"}",
+      "version": "1.0.5"
     },
     {
       "key": "Circuitrinos-VRisingVR_Passthrough",
       "last_sent": 1792892717.2125192,
-      "newest": 1792890485.36463,
-      "pending": null,
-      "version": "1.1.0"
+      "newest": 1793065804.497703,
+      "pending": "{\"key\": \"Circuitrinos-VRisingVR_Passthrough\", \"name\": \"VRisingVR_Passthrough\", \"owner\": \"Circuitrinos\", \"version\": \"1.1.1\", \"created\": 1793065804.497703, \"website\": \"https://github.com/Circuitrinos/v_rising_vr_mod\", \"description\": \"VRisingVR with a window onto your desk for the Steam Frame and Quest 3: hold a mouse side button to see your keyboard, mouse and hands in the headset's passthrough, via chroma key. Use it instead of VRisingVR. Client-side only. Needs SteamVR.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Circuitrinos/VRisingVR_Passthrough/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Circuitrinos-VRisingVR_Passthrough-1.1.1.png\", \"downloads\": 19, \"categories\": \"Oakveil Update, Client\"}",
+      "version": "1.1.1"
     },
     {
       "key": "Cortidd-AGGIUNGI_UN_POSTO_A_TAVOLA_Succhiasangue_Edition",
@@ -541,7 +541,7 @@
       "key": "Loto-Grimoire",
       "last_sent": null,
       "newest": 1793021765.411065,
-      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.178\", \"created\": 1793021765.411065, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.178.png\", \"downloads\": 3230, \"categories\": \"Oakveil Update\"}",
+      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.178\", \"created\": 1793021765.411065, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.178.png\", \"downloads\": 3233, \"categories\": \"Oakveil Update\"}",
       "version": "2.42.178"
     },
     {
@@ -996,7 +996,7 @@
       "key": "Tomato144-PVESieges",
       "last_sent": null,
       "newest": 1793010580.9715,
-      "pending": "{\"key\": \"Tomato144-PVESieges\", \"name\": \"PVESieges\", \"owner\": \"Tomato144\", \"version\": \"1.0.296\", \"created\": 1793010580.9715, \"website\": \"\", \"description\": \"PvE castle sieges: bandits, militia, the Legion and more raid your castle in waves. Sappers bomb your gates, Raid Captains lead the charge, V Blood kills bring revenge raids. Win for loot.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tomato144/PVESieges/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tomato144-PVESieges-1.0.296.png\", \"downloads\": 143, \"categories\": \"Mods, Server\"}",
+      "pending": "{\"key\": \"Tomato144-PVESieges\", \"name\": \"PVESieges\", \"owner\": \"Tomato144\", \"version\": \"1.0.296\", \"created\": 1793010580.9715, \"website\": \"\", \"description\": \"PvE castle sieges: bandits, militia, the Legion and more raid your castle in waves. Sappers bomb your gates, Raid Captains lead the charge, V Blood kills bring revenge raids. Win for loot.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tomato144/PVESieges/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tomato144-PVESieges-1.0.296.png\", \"downloads\": 146, \"categories\": \"Mods, Server\"}",
       "version": "1.0.296"
     },
     {
