@@ -996,7 +996,7 @@
       "key": "Tomato144-PVESieges",
       "last_sent": null,
       "newest": 1793156847.216456,
-      "pending": "{\"key\": \"Tomato144-PVESieges\", \"name\": \"PVESieges\", \"owner\": \"Tomato144\", \"version\": \"1.0.339\", \"created\": 1793156847.216456, \"website\": \"\", \"description\": \"PvE castle sieges: bandits, militia, the Legion and more raid your castle in waves. Sappers bomb your gates, Raid Captains lead the charge, V Blood kills bring revenge raids. Win for loot.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tomato144/PVESieges/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tomato144-PVESieges-1.0.339.png\", \"downloads\": 231, \"categories\": \"Mods, Server\"}",
+      "pending": "{\"key\": \"Tomato144-PVESieges\", \"name\": \"PVESieges\", \"owner\": \"Tomato144\", \"version\": \"1.0.339\", \"created\": 1793156847.216456, \"website\": \"\", \"description\": \"PvE castle sieges: bandits, militia, the Legion and more raid your castle in waves. Sappers bomb your gates, Raid Captains lead the charge, V Blood kills bring revenge raids. Win for loot.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tomato144/PVESieges/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tomato144-PVESieges-1.0.339.png\", \"downloads\": 234, \"categories\": \"Mods, Server\"}",
       "version": "1.0.339"
     },
     {
@@ -1495,6 +1495,13 @@
       "newest": 1686694969.496583,
       "pending": null,
       "version": "0.1.4"
+    },
+    {
+      "key": "jnxldr-NoCloakShroudBuff",
+      "last_sent": null,
+      "newest": 1793169505.298287,
+      "pending": "{\"key\": \"jnxldr-NoCloakShroudBuff\", \"name\": \"NoCloakShroudBuff\", \"owner\": \"jnxldr\", \"version\": \"1.0.0\", \"created\": 1793169505.298287, \"website\": \"https://github.com/jnxldr/VRising-NoCloakShroudBuff\", \"description\": \"Players who have killed Ben the Old Wanderer are protected from the Curse of the Forest in the Cursed Forest, as if wearing the Shroud of the Forest, without the cloak. Server only.\", \"url\": \"https://thunderstore.io/c/v-rising/p/jnxldr/NoCloakShroudBuff/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/jnxldr-NoCloakShroudBuff-1.0.0.png\", \"downloads\": 1, \"categories\": \"Oakveil Update, Server, 1.0 Update\"}",
+      "version": "1.0.0"
     },
     {
       "key": "jnxldr-PotionDuration",
