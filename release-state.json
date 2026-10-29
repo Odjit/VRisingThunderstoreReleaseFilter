@@ -541,7 +541,7 @@
       "key": "Loto-Grimoire",
       "last_sent": null,
       "newest": 1793105024.032007,
-      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.180\", \"created\": 1793105024.032007, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.180.png\", \"downloads\": 3391, \"categories\": \"Oakveil Update\"}",
+      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.180\", \"created\": 1793105024.032007, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.180.png\", \"downloads\": 3393, \"categories\": \"Oakveil Update\"}",
       "version": "2.42.180"
     },
     {
@@ -996,7 +996,7 @@
       "key": "Tomato144-PVESieges",
       "last_sent": null,
       "newest": 1793156847.216456,
-      "pending": "{\"key\": \"Tomato144-PVESieges\", \"name\": \"PVESieges\", \"owner\": \"Tomato144\", \"version\": \"1.0.339\", \"created\": 1793156847.216456, \"website\": \"\", \"description\": \"PvE castle sieges: bandits, militia, the Legion and more raid your castle in waves. Sappers bomb your gates, Raid Captains lead the charge, V Blood kills bring revenge raids. Win for loot.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tomato144/PVESieges/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tomato144-PVESieges-1.0.339.png\", \"downloads\": 284, \"categories\": \"Mods, Server\"}",
+      "pending": "{\"key\": \"Tomato144-PVESieges\", \"name\": \"PVESieges\", \"owner\": \"Tomato144\", \"version\": \"1.0.339\", \"created\": 1793156847.216456, \"website\": \"\", \"description\": \"PvE castle sieges: bandits, militia, the Legion and more raid your castle in waves. Sappers bomb your gates, Raid Captains lead the charge, V Blood kills bring revenge raids. Win for loot.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tomato144/PVESieges/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tomato144-PVESieges-1.0.339.png\", \"downloads\": 285, \"categories\": \"Mods, Server\"}",
       "version": "1.0.339"
     },
     {
@@ -1388,7 +1388,7 @@
       "key": "ebkr-r2modman",
       "last_sent": null,
       "newest": 1793235215.419665,
-      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10749579, \"categories\": \"1.0 Update, Gloomrot Update\"}",
+      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10749693, \"categories\": \"1.0 Update, Gloomrot Update\"}",
       "version": "3.2.21"
     },
     {
@@ -1451,7 +1451,7 @@
       "key": "iShamTeam-CommandBinds",
       "last_sent": null,
       "newest": 1793199149.280861,
-      "pending": "{\"key\": \"iShamTeam-CommandBinds\", \"name\": \"CommandBinds\", \"owner\": \"iShamTeam\", \"version\": \"1.0.1\", \"created\": 1793199149.280861, \"website\": \"\", \"description\": \"Macros for chat commands: up to 6 commands per macro, run from a key combo, an on-screen button or the macro menu. Client only.\", \"url\": \"https://thunderstore.io/c/v-rising/p/iShamTeam/CommandBinds/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/iShamTeam-CommandBinds-1.0.1.png\", \"downloads\": 39, \"categories\": \"Mods, Oakveil Update, Client, Tools\"}",
+      "pending": "{\"key\": \"iShamTeam-CommandBinds\", \"name\": \"CommandBinds\", \"owner\": \"iShamTeam\", \"version\": \"1.0.1\", \"created\": 1793199149.280861, \"website\": \"\", \"description\": \"Macros for chat commands: up to 6 commands per macro, run from a key combo, an on-screen button or the macro menu. Client only.\", \"url\": \"https://thunderstore.io/c/v-rising/p/iShamTeam/CommandBinds/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/iShamTeam-CommandBinds-1.0.1.png\", \"downloads\": 41, \"categories\": \"Mods, Oakveil Update, Client, Tools\"}",
       "version": "1.0.1"
     },
     {
