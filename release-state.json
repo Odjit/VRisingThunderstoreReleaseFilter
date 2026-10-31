@@ -1001,7 +1001,7 @@
     },
     {
       "key": "ToobsTube-Prospector",
-      "last_sent": 1793155817.2602558,
+      "last_sent": 1793407517.295571,
       "newest": 1793406031.010149,
       "pending": "{\"key\": \"ToobsTube-Prospector\", \"name\": \"Prospector\", \"owner\": \"ToobsTube\", \"version\": \"1.0.2\", \"created\": 1793406031.010149, \"website\": \"https://github.com/ToobsTube/VRising-ResourceMap\", \"description\": \"Server plugin: every ore, plant and tree on your server with per-spot spawn odds. Chat commands to find and mark resources, Discord sharing of map dumps. Works in single player with ServerLaunchFix.\", \"url\": \"https://thunderstore.io/c/v-rising/p/ToobsTube/Prospector/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ToobsTube-Prospector-1.0.2.png\", \"downloads\": 41, \"categories\": \"Oakveil Update, Tools, Server\"}",
       "version": "1.0.2"
