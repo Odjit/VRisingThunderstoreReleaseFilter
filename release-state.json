@@ -1507,7 +1507,7 @@
       "key": "jnxldr-NoCloakShroudBuff",
       "last_sent": 1793529921.7740357,
       "newest": 1793526783.625818,
-      "pending": "{\"key\": \"jnxldr-NoCloakShroudBuff\", \"name\": \"NoCloakShroudBuff\", \"owner\": \"jnxldr\", \"version\": \"1.0.1\", \"created\": 1793526783.625818, \"website\": \"https://github.com/jnxldr/VRising-NoCloakShroudBuff\", \"description\": \"Players who have killed Ben the Old Wanderer are protected from the Curse of the Forest in the Cursed Forest, as if wearing the Shroud of the Forest, without the cloak. Server only.\", \"url\": \"https://thunderstore.io/c/v-rising/p/jnxldr/NoCloakShroudBuff/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/jnxldr-NoCloakShroudBuff-1.0.1.png\", \"downloads\": 59, \"categories\": \"Oakveil Update, Server, 1.0 Update\"}",
+      "pending": null,
       "version": "1.0.1"
     },
     {
