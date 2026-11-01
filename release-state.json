@@ -1498,7 +1498,7 @@
     },
     {
       "key": "jnxldr-FasterCastleMovement",
-      "last_sent": null,
+      "last_sent": 1793529924.8680418,
       "newest": 1793526809.585487,
       "pending": "{\"key\": \"jnxldr-FasterCastleMovement\", \"name\": \"FasterCastleMovement\", \"owner\": \"jnxldr\", \"version\": \"1.0.0\", \"created\": 1793526809.585487, \"website\": \"https://github.com/jnxldr/VRising-FasterCastleMovement\", \"description\": \"Once you have Wolf Form, move as fast as a wolf on foot on your own and your clanmates' castle plots. Unclaimed plots, other players' castles and the open world are unchanged. Server only.\", \"url\": \"https://thunderstore.io/c/v-rising/p/jnxldr/FasterCastleMovement/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/jnxldr-FasterCastleMovement-1.0.0.png\", \"downloads\": 4, \"categories\": \"Oakveil Update, Server, 1.0 Update\"}",
       "version": "1.0.0"
