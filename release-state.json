@@ -70,7 +70,7 @@
     },
     {
       "key": "Bazarov-CarriageTracker",
-      "last_sent": 1794044715.9861782,
+      "last_sent": 1794131417.3409095,
       "newest": 1794058136.816316,
       "pending": "{\"key\": \"Bazarov-CarriageTracker\", \"name\": \"CarriageTracker\", \"owner\": \"Bazarov\", \"version\": \"1.0.20\", \"created\": 1794058136.816316, \"website\": \"https://github.com/Bazarov888/CarriageTracker\", \"description\": \"Carriages on the map for everyone, chat announcements when they set out, and automatic carriage starts in every act where players are online.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Bazarov/CarriageTracker/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Bazarov-CarriageTracker-1.0.20.png\", \"downloads\": 23, \"categories\": \"Oakveil Update, Server, Mods\"}",
       "version": "1.0.20"
