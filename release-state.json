@@ -268,7 +268,7 @@
       "key": "Dragula-DragUI",
       "last_sent": 1794163518.045273,
       "newest": 1794161582.283817,
-      "pending": "{\"key\": \"Dragula-DragUI\", \"name\": \"DragUI\", \"owner\": \"Dragula\", \"version\": \"1.7.0\", \"created\": 1794161582.283817, \"website\": \"https://github.com/nezoic/DragUI\", \"description\": \"Client-side utility UI for V Rising: V Blood hunt tracker, familiar quick-summon, one-click loadouts, DPS meter, XP/hour, full character sheet, teleport tools and boss alarms.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Dragula/DragUI/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Dragula-DragUI-1.7.0.png\", \"downloads\": 543, \"categories\": \"Oakveil Update, Client, Mods\"}",
+      "pending": null,
       "version": "1.7.0"
     },
     {
