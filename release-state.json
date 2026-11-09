@@ -548,7 +548,7 @@
       "key": "Loto-Grimoire",
       "last_sent": null,
       "newest": 1794073297.027175,
-      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.185\", \"created\": 1794073297.027175, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.185.png\", \"downloads\": 4082, \"categories\": \"Oakveil Update\"}",
+      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.185\", \"created\": 1794073297.027175, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.185.png\", \"downloads\": 4087, \"categories\": \"Oakveil Update\"}",
       "version": "2.42.185"
     },
     {
@@ -1402,7 +1402,7 @@
       "key": "ebkr-r2modman",
       "last_sent": null,
       "newest": 1793235215.419665,
-      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10815133, \"categories\": \"1.0 Update, Gloomrot Update\"}",
+      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10815275, \"categories\": \"1.0 Update, Gloomrot Update\"}",
       "version": "3.2.21"
     },
     {
@@ -1766,7 +1766,7 @@
       "key": "skytech6-CrimsonDropRate",
       "last_sent": null,
       "newest": 1794088688.890723,
-      "pending": "{\"key\": \"skytech6-CrimsonDropRate\", \"name\": \"CrimsonDropRate\", \"owner\": \"skytech6\", \"version\": \"2.0.2\", \"created\": 1794088688.890723, \"website\": \"https://github.com/CrimsonMods/CrimsonDropRate/\", \"description\": \"Modifies the item group drop rate, not the item quantity drop\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonDropRate/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonDropRate-2.0.2.png\", \"downloads\": 3698, \"categories\": \"Server, 1.0 Update, Oakveil Update, Mods\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonDropRate\", \"name\": \"CrimsonDropRate\", \"owner\": \"skytech6\", \"version\": \"2.0.2\", \"created\": 1794088688.890723, \"website\": \"https://github.com/CrimsonMods/CrimsonDropRate/\", \"description\": \"Modifies the item group drop rate, not the item quantity drop\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonDropRate/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonDropRate-2.0.2.png\", \"downloads\": 3699, \"categories\": \"Server, 1.0 Update, Oakveil Update, Mods\"}",
       "version": "2.0.2"
     },
     {
@@ -1815,7 +1815,7 @@
       "key": "skytech6-CrimsonLog",
       "last_sent": null,
       "newest": 1794093022.600185,
-      "pending": "{\"key\": \"skytech6-CrimsonLog\", \"name\": \"CrimsonLog\", \"owner\": \"skytech6\", \"version\": \"1.5.1\", \"created\": 1794093022.600185, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Logging for Moderation\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonLog/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonLog-1.5.1.png\", \"downloads\": 2384, \"categories\": \"Server, 1.0 Update, Oakveil Update, Mods\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonLog\", \"name\": \"CrimsonLog\", \"owner\": \"skytech6\", \"version\": \"1.5.1\", \"created\": 1794093022.600185, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Logging for Moderation\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonLog/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonLog-1.5.1.png\", \"downloads\": 2386, \"categories\": \"Server, 1.0 Update, Oakveil Update, Mods\"}",
       "version": "1.5.1"
     },
     {
@@ -1829,7 +1829,7 @@
       "key": "skytech6-CrimsonQuest",
       "last_sent": null,
       "newest": 1794089816.948807,
-      "pending": "{\"key\": \"skytech6-CrimsonQuest\", \"name\": \"CrimsonQuest\", \"owner\": \"skytech6\", \"version\": \"1.0.1\", \"created\": 1794089816.948807, \"website\": \"https://github.com/CrimsonMods/CrimsonQuest/\", \"description\": \"Questing System\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonQuest/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonQuest-1.0.1.png\", \"downloads\": 2677, \"categories\": \"Server, 1.0 Update, Oakveil Update, Mods\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonQuest\", \"name\": \"CrimsonQuest\", \"owner\": \"skytech6\", \"version\": \"1.0.1\", \"created\": 1794089816.948807, \"website\": \"https://github.com/CrimsonMods/CrimsonQuest/\", \"description\": \"Questing System\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonQuest/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonQuest-1.0.1.png\", \"downloads\": 2678, \"categories\": \"Server, 1.0 Update, Oakveil Update, Mods\"}",
       "version": "1.0.1"
     },
     {
@@ -1850,7 +1850,7 @@
       "key": "skytech6-Intro_Skip",
       "last_sent": null,
       "newest": 1794088991.385013,
-      "pending": "{\"key\": \"skytech6-Intro_Skip\", \"name\": \"Intro_Skip\", \"owner\": \"skytech6\", \"version\": \"2.0.1\", \"created\": 1794088991.385013, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Skip the intro video straight to main menu\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/Intro_Skip/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-Intro_Skip-2.0.1.png\", \"downloads\": 3059, \"categories\": \"Server, Oakveil Update, Mods, Client\"}",
+      "pending": "{\"key\": \"skytech6-Intro_Skip\", \"name\": \"Intro_Skip\", \"owner\": \"skytech6\", \"version\": \"2.0.1\", \"created\": 1794088991.385013, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Skip the intro video straight to main menu\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/Intro_Skip/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-Intro_Skip-2.0.1.png\", \"downloads\": 3060, \"categories\": \"Server, Oakveil Update, Mods, Client\"}",
       "version": "2.0.1"
     },
     {
@@ -1878,7 +1878,7 @@
       "key": "skytech6-VAMP",
       "last_sent": null,
       "newest": 1794083118.843231,
-      "pending": "{\"key\": \"skytech6-VAMP\", \"name\": \"VAMP\", \"owner\": \"skytech6\", \"version\": \"2.0.0\", \"created\": 1794083118.843231, \"website\": \"https://vrising.wiki/\", \"description\": \"V Rising API Modding Platform\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/VAMP/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-VAMP-2.0.0.png\", \"downloads\": 17416, \"categories\": \"Server, Oakveil Update, Mods\"}",
+      "pending": "{\"key\": \"skytech6-VAMP\", \"name\": \"VAMP\", \"owner\": \"skytech6\", \"version\": \"2.0.0\", \"created\": 1794083118.843231, \"website\": \"https://vrising.wiki/\", \"description\": \"V Rising API Modding Platform\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/VAMP/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-VAMP-2.0.0.png\", \"downloads\": 17418, \"categories\": \"Server, Oakveil Update, Mods\"}",
       "version": "2.0.0"
     },
     {
@@ -1920,7 +1920,7 @@
       "key": "zeeCameLsnake-V_Blood_Tracker",
       "last_sent": null,
       "newest": 1793369748.80719,
-      "pending": "{\"key\": \"zeeCameLsnake-V_Blood_Tracker\", \"name\": \"V_Blood_Tracker\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.16\", \"created\": 1793369748.80719, \"website\": \"https://www.nexusmods.com/vrising/mods/50\", \"description\": \"Shows the live direction and distance in meters to the tracked V Blood in the HUD tracking line, and lets you choose how often the blood trail appears.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/V_Blood_Tracker/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-V_Blood_Tracker-1.0.16.png\", \"downloads\": 177, \"categories\": \"Oakveil Update, Mods, Client\"}",
+      "pending": "{\"key\": \"zeeCameLsnake-V_Blood_Tracker\", \"name\": \"V_Blood_Tracker\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.16\", \"created\": 1793369748.80719, \"website\": \"https://www.nexusmods.com/vrising/mods/50\", \"description\": \"Shows the live direction and distance in meters to the tracked V Blood in the HUD tracking line, and lets you choose how often the blood trail appears.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/V_Blood_Tracker/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-V_Blood_Tracker-1.0.16.png\", \"downloads\": 180, \"categories\": \"Oakveil Update, Mods, Client\"}",
       "version": "1.0.16"
     },
     {
