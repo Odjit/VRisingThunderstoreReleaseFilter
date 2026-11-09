@@ -1213,7 +1213,7 @@
       "key": "Voits1-UniversalCooldownUI",
       "last_sent": 1794231918.1518989,
       "newest": 1794223289.887619,
-      "pending": "{\"key\": \"Voits1-UniversalCooldownUI\", \"name\": \"UniversalCooldownUI\", \"owner\": \"Voits1\", \"version\": \"1.1.5\", \"created\": 1794223289.887619, \"website\": \"https://github.com/Voits1/UniversalCooldownUI\", \"description\": \"Bloodcraft fix for V Rising 1.1.15: real cooldown recovery in tooltips, weapon bonuses and a native 'Blood' tab in the character window. EN/RU. Server part required.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Voits1/UniversalCooldownUI/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Voits1-UniversalCooldownUI-1.1.5.png\", \"downloads\": 25, \"categories\": \"\"}",
+      "pending": null,
       "version": "1.1.5"
     },
     {
