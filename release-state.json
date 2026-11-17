@@ -310,7 +310,7 @@
       "key": "FAiNEL-ShopUI_Client",
       "last_sent": null,
       "newest": 1794870586.706475,
-      "pending": "{\"key\": \"FAiNEL-ShopUI_Client\", \"name\": \"ShopUI_Client\", \"owner\": \"FAiNEL\", \"version\": \"0.1.8\", \"created\": 1794870586.706475, \"website\": \"https://wargm.ru/server/81982\", \"description\": \"CLIENT-ONLY build of ShopUI for V Rising: merchant (NPC trader) panel, trader names above NPCs, 7 colour schemes. Requires the ShopUI server module on the server - the client alone does nothing. Made for the BLOODLUST server.\", \"url\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/ShopUI_Client/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/FAiNEL-ShopUI_Client-0.1.8.png\", \"downloads\": 33, \"categories\": \"Mods, Client\"}",
+      "pending": "{\"key\": \"FAiNEL-ShopUI_Client\", \"name\": \"ShopUI_Client\", \"owner\": \"FAiNEL\", \"version\": \"0.1.8\", \"created\": 1794870586.706475, \"website\": \"https://wargm.ru/server/81982\", \"description\": \"CLIENT-ONLY build of ShopUI for V Rising: merchant (NPC trader) panel, trader names above NPCs, 7 colour schemes. Requires the ShopUI server module on the server - the client alone does nothing. Made for the BLOODLUST server.\", \"url\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/ShopUI_Client/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/FAiNEL-ShopUI_Client-0.1.8.png\", \"downloads\": 32, \"categories\": \"Mods, Client\"}",
       "version": "0.1.8"
     },
     {
@@ -555,7 +555,7 @@
       "key": "Loto-Grimoire",
       "last_sent": null,
       "newest": 1794073297.027175,
-      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.185\", \"created\": 1794073297.027175, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.185.png\", \"downloads\": 4566, \"categories\": \"Oakveil Update\"}",
+      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.185\", \"created\": 1794073297.027175, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.185.png\", \"downloads\": 4565, \"categories\": \"Oakveil Update\"}",
       "version": "2.42.185"
     },
     {
@@ -1409,7 +1409,7 @@
       "key": "ebkr-r2modman",
       "last_sent": null,
       "newest": 1793235215.419665,
-      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10849254, \"categories\": \"Gloomrot Update, 1.0 Update\"}",
+      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10849023, \"categories\": \"Gloomrot Update, 1.0 Update\"}",
       "version": "3.2.21"
     },
     {
@@ -1808,7 +1808,7 @@
       "key": "skytech6-CrimsonGauntlet",
       "last_sent": null,
       "newest": 1794586380.817894,
-      "pending": "{\"key\": \"skytech6-CrimsonGauntlet\", \"name\": \"CrimsonGauntlet\", \"owner\": \"skytech6\", \"version\": \"0.1.1\", \"created\": 1794586380.817894, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Timed mob and V Blood gauntlets with PvP score stealing and configurable rewards.\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonGauntlet/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonGauntlet-0.1.1.png\", \"downloads\": 19, \"categories\": \"Mods, Server, Oakveil Update\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonGauntlet\", \"name\": \"CrimsonGauntlet\", \"owner\": \"skytech6\", \"version\": \"0.1.1\", \"created\": 1794586380.817894, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Timed mob and V Blood gauntlets with PvP score stealing and configurable rewards.\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonGauntlet/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonGauntlet-0.1.1.png\", \"downloads\": 18, \"categories\": \"Mods, Server, Oakveil Update\"}",
       "version": "0.1.1"
     },
     {
@@ -1843,7 +1843,7 @@
       "key": "skytech6-CrimsonLog",
       "last_sent": null,
       "newest": 1794093022.600185,
-      "pending": "{\"key\": \"skytech6-CrimsonLog\", \"name\": \"CrimsonLog\", \"owner\": \"skytech6\", \"version\": \"1.5.1\", \"created\": 1794093022.600185, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Logging for Moderation\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonLog/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonLog-1.5.1.png\", \"downloads\": 2545, \"categories\": \"1.0 Update, Mods, Server, Oakveil Update\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonLog\", \"name\": \"CrimsonLog\", \"owner\": \"skytech6\", \"version\": \"1.5.1\", \"created\": 1794093022.600185, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Logging for Moderation\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonLog/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonLog-1.5.1.png\", \"downloads\": 2543, \"categories\": \"1.0 Update, Mods, Server, Oakveil Update\"}",
       "version": "1.5.1"
     },
     {
@@ -1864,7 +1864,7 @@
       "key": "skytech6-CrimsonRaidGuard",
       "last_sent": null,
       "newest": 1794586557.733471,
-      "pending": "{\"key\": \"skytech6-CrimsonRaidGuard\", \"name\": \"CrimsonRaidGuard\", \"owner\": \"skytech6\", \"version\": \"0.1.11\", \"created\": 1794586557.733471, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Protect castle raids from third-party interference, with offline protection, siege golem protection, and shard-based raid limits.\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonRaidGuard/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonRaidGuard-0.1.11.png\", \"downloads\": 19, \"categories\": \"Mods, Server, Oakveil Update\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonRaidGuard\", \"name\": \"CrimsonRaidGuard\", \"owner\": \"skytech6\", \"version\": \"0.1.11\", \"created\": 1794586557.733471, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Protect castle raids from third-party interference, with offline protection, siege golem protection, and shard-based raid limits.\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonRaidGuard/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonRaidGuard-0.1.11.png\", \"downloads\": 18, \"categories\": \"Mods, Server, Oakveil Update\"}",
       "version": "0.1.11"
     },
     {
@@ -1878,14 +1878,14 @@
       "key": "skytech6-CrimsonShards",
       "last_sent": null,
       "newest": 1794586501.552136,
-      "pending": "{\"key\": \"skytech6-CrimsonShards\", \"name\": \"CrimsonShards\", \"owner\": \"skytech6\", \"version\": \"0.1.4\", \"created\": 1794586501.552136, \"website\": \"https://github.com/CrimsonMods/CrimsonShards\", \"description\": \"Customize Soul Shard drops, durability, resets, and transport on your V Rising server.\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonShards/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonShards-0.1.4.png\", \"downloads\": 26, \"categories\": \"Mods, Server, Oakveil Update\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonShards\", \"name\": \"CrimsonShards\", \"owner\": \"skytech6\", \"version\": \"0.1.4\", \"created\": 1794586501.552136, \"website\": \"https://github.com/CrimsonMods/CrimsonShards\", \"description\": \"Customize Soul Shard drops, durability, resets, and transport on your V Rising server.\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonShards/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonShards-0.1.4.png\", \"downloads\": 25, \"categories\": \"Mods, Server, Oakveil Update\"}",
       "version": "0.1.4"
     },
     {
       "key": "skytech6-CrimsonStyle",
       "last_sent": null,
       "newest": 1794587687.888547,
-      "pending": "{\"key\": \"skytech6-CrimsonStyle\", \"name\": \"CrimsonStyle\", \"owner\": \"skytech6\", \"version\": \"0.1.5\", \"created\": 1794587687.888547, \"website\": \"https://github.com/CrimsonMods/CrimsonStyle\", \"description\": \"Give players cosmetic auras unlocked by items or available to everyone.\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonStyle/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonStyle-0.1.5.png\", \"downloads\": 38, \"categories\": \"Mods, Server, Oakveil Update\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonStyle\", \"name\": \"CrimsonStyle\", \"owner\": \"skytech6\", \"version\": \"0.1.5\", \"created\": 1794587687.888547, \"website\": \"https://github.com/CrimsonMods/CrimsonStyle\", \"description\": \"Give players cosmetic auras unlocked by items or available to everyone.\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonStyle/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonStyle-0.1.5.png\", \"downloads\": 36, \"categories\": \"Mods, Server, Oakveil Update\"}",
       "version": "0.1.5"
     },
     {
@@ -1899,7 +1899,7 @@
       "key": "skytech6-Intro_Skip",
       "last_sent": null,
       "newest": 1794088991.385013,
-      "pending": "{\"key\": \"skytech6-Intro_Skip\", \"name\": \"Intro_Skip\", \"owner\": \"skytech6\", \"version\": \"2.0.1\", \"created\": 1794088991.385013, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Skip the intro video straight to main menu\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/Intro_Skip/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-Intro_Skip-2.0.1.png\", \"downloads\": 3132, \"categories\": \"Mods, Server, Client, Oakveil Update\"}",
+      "pending": "{\"key\": \"skytech6-Intro_Skip\", \"name\": \"Intro_Skip\", \"owner\": \"skytech6\", \"version\": \"2.0.1\", \"created\": 1794088991.385013, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Skip the intro video straight to main menu\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/Intro_Skip/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-Intro_Skip-2.0.1.png\", \"downloads\": 3131, \"categories\": \"Mods, Server, Client, Oakveil Update\"}",
       "version": "2.0.1"
     },
     {
@@ -1927,7 +1927,7 @@
       "key": "skytech6-VAMP",
       "last_sent": null,
       "newest": 1794083118.843231,
-      "pending": "{\"key\": \"skytech6-VAMP\", \"name\": \"VAMP\", \"owner\": \"skytech6\", \"version\": \"2.0.0\", \"created\": 1794083118.843231, \"website\": \"https://vrising.wiki/\", \"description\": \"V Rising API Modding Platform\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/VAMP/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-VAMP-2.0.0.png\", \"downloads\": 17742, \"categories\": \"Mods, Server, Oakveil Update\"}",
+      "pending": "{\"key\": \"skytech6-VAMP\", \"name\": \"VAMP\", \"owner\": \"skytech6\", \"version\": \"2.0.0\", \"created\": 1794083118.843231, \"website\": \"https://vrising.wiki/\", \"description\": \"V Rising API Modding Platform\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/VAMP/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-VAMP-2.0.0.png\", \"downloads\": 17739, \"categories\": \"Mods, Server, Oakveil Update\"}",
       "version": "2.0.0"
     },
     {
