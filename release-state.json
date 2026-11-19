@@ -303,7 +303,7 @@
       "key": "FAiNEL-Eclipse_by_FAiNEL",
       "last_sent": null,
       "newest": 1795030962.066226,
-      "pending": "{\"key\": \"FAiNEL-Eclipse_by_FAiNEL\", \"name\": \"Eclipse_by_FAiNEL\", \"owner\": \"FAiNEL\", \"version\": \"1.3.2\", \"created\": 1795030962.066226, \"website\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/Eclipse_by_FAiNEL/\", \"description\": \"QoL UI fixes for EclipsePlus (EclipsePlus by Dinasor included, pre-patched for 1.3.9): Stat Bonuses icons, x1.5 synergy markers, tab glow, 4/4 slots, one-click prestige buttons, 28-type leaderboard, Russian UI, Headgear bonuses + head-slot costume window.\", \"url\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/Eclipse_by_FAiNEL/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/FAiNEL-Eclipse_by_FAiNEL-1.3.2.png\", \"downloads\": 259, \"categories\": \"Mods, Client\"}",
+      "pending": "{\"key\": \"FAiNEL-Eclipse_by_FAiNEL\", \"name\": \"Eclipse_by_FAiNEL\", \"owner\": \"FAiNEL\", \"version\": \"1.3.2\", \"created\": 1795030962.066226, \"website\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/Eclipse_by_FAiNEL/\", \"description\": \"QoL UI fixes for EclipsePlus (EclipsePlus by Dinasor included, pre-patched for 1.3.9): Stat Bonuses icons, x1.5 synergy markers, tab glow, 4/4 slots, one-click prestige buttons, 28-type leaderboard, Russian UI, Headgear bonuses + head-slot costume window.\", \"url\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/Eclipse_by_FAiNEL/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/FAiNEL-Eclipse_by_FAiNEL-1.3.2.png\", \"downloads\": 260, \"categories\": \"Mods, Client\"}",
       "version": "1.3.2"
     },
     {
@@ -317,7 +317,7 @@
       "key": "FAiNEL-ShopUI_Client",
       "last_sent": null,
       "newest": 1795029707.296782,
-      "pending": "{\"key\": \"FAiNEL-ShopUI_Client\", \"name\": \"ShopUI_Client\", \"owner\": \"FAiNEL\", \"version\": \"0.1.12\", \"created\": 1795029707.296782, \"website\": \"https://wargm.ru/server/81982\", \"description\": \"CLIENT-ONLY build of ShopUI for V Rising: merchant (NPC trader) panel, trader names above NPCs, 7 colour schemes. Requires the ShopUI server module on the server - the client alone does nothing. Made for the BLOODLUST server.\", \"url\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/ShopUI_Client/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/FAiNEL-ShopUI_Client-0.1.12.png\", \"downloads\": 82, \"categories\": \"Mods, Client\"}",
+      "pending": "{\"key\": \"FAiNEL-ShopUI_Client\", \"name\": \"ShopUI_Client\", \"owner\": \"FAiNEL\", \"version\": \"0.1.12\", \"created\": 1795029707.296782, \"website\": \"https://wargm.ru/server/81982\", \"description\": \"CLIENT-ONLY build of ShopUI for V Rising: merchant (NPC trader) panel, trader names above NPCs, 7 colour schemes. Requires the ShopUI server module on the server - the client alone does nothing. Made for the BLOODLUST server.\", \"url\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/ShopUI_Client/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/FAiNEL-ShopUI_Client-0.1.12.png\", \"downloads\": 83, \"categories\": \"Mods, Client\"}",
       "version": "0.1.12"
     },
     {
@@ -471,7 +471,7 @@
       "key": "KebunCrom-KebunUI",
       "last_sent": null,
       "newest": 1795051119.273088,
-      "pending": "{\"key\": \"KebunCrom-KebunUI\", \"name\": \"KebunUI\", \"owner\": \"KebunCrom\", \"version\": \"1.0.1\", \"created\": 1795051119.273088, \"website\": \"\", \"description\": \"Bloodcraft client UI. Full features on the Kebun Crom server; basic mode (Eclipse sync) on any other Bloodcraft server.\", \"url\": \"https://thunderstore.io/c/v-rising/p/KebunCrom/KebunUI/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/KebunCrom-KebunUI-1.0.1.png\", \"downloads\": 347, \"categories\": \"Client\"}",
+      "pending": "{\"key\": \"KebunCrom-KebunUI\", \"name\": \"KebunUI\", \"owner\": \"KebunCrom\", \"version\": \"1.0.1\", \"created\": 1795051119.273088, \"website\": \"\", \"description\": \"Bloodcraft client UI. Full features on the Kebun Crom server; basic mode (Eclipse sync) on any other Bloodcraft server.\", \"url\": \"https://thunderstore.io/c/v-rising/p/KebunCrom/KebunUI/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/KebunCrom-KebunUI-1.0.1.png\", \"downloads\": 353, \"categories\": \"Client\"}",
       "version": "1.0.1"
     },
     {
@@ -1017,7 +1017,7 @@
       "key": "Tomato144-PVESieges",
       "last_sent": null,
       "newest": 1793804265.00728,
-      "pending": "{\"key\": \"Tomato144-PVESieges\", \"name\": \"PVESieges\", \"owner\": \"Tomato144\", \"version\": \"1.0.363\", \"created\": 1793804265.00728, \"website\": \"\", \"description\": \"PvE castle sieges: bandits, militia, the Legion and more raid your castle in waves. Sappers bomb your gates, Raid Captains lead the charge, V Blood kills bring revenge raids. Win for loot.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tomato144/PVESieges/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tomato144-PVESieges-1.0.363.png\", \"downloads\": 1298, \"categories\": \"Mods, Server\"}",
+      "pending": "{\"key\": \"Tomato144-PVESieges\", \"name\": \"PVESieges\", \"owner\": \"Tomato144\", \"version\": \"1.0.363\", \"created\": 1793804265.00728, \"website\": \"\", \"description\": \"PvE castle sieges: bandits, militia, the Legion and more raid your castle in waves. Sappers bomb your gates, Raid Captains lead the charge, V Blood kills bring revenge raids. Win for loot.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tomato144/PVESieges/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tomato144-PVESieges-1.0.363.png\", \"downloads\": 1299, \"categories\": \"Mods, Server\"}",
       "version": "1.0.363"
     },
     {
@@ -1416,7 +1416,7 @@
       "key": "ebkr-r2modman",
       "last_sent": null,
       "newest": 1793235215.419665,
-      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10855158, \"categories\": \"1.0 Update, Gloomrot Update\"}",
+      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10855263, \"categories\": \"1.0 Update, Gloomrot Update\"}",
       "version": "3.2.21"
     },
     {
@@ -1752,7 +1752,7 @@
       "key": "skytech6-CrimsonAlliance",
       "last_sent": null,
       "newest": 1794236535.548761,
-      "pending": "{\"key\": \"skytech6-CrimsonAlliance\", \"name\": \"CrimsonAlliance\", \"owner\": \"skytech6\", \"version\": \"0.3.0\", \"created\": 1794236535.548761, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Form clan alliances, chat with allies, and lock alliance changes during raids.\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonAlliance/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonAlliance-0.3.0.png\", \"downloads\": 83, \"categories\": \"Oakveil Update, Mods, Server\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonAlliance\", \"name\": \"CrimsonAlliance\", \"owner\": \"skytech6\", \"version\": \"0.3.0\", \"created\": 1794236535.548761, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Form clan alliances, chat with allies, and lock alliance changes during raids.\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonAlliance/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonAlliance-0.3.0.png\", \"downloads\": 84, \"categories\": \"Oakveil Update, Mods, Server\"}",
       "version": "0.3.0"
     },
     {
@@ -1773,7 +1773,7 @@
       "key": "skytech6-CrimsonClans",
       "last_sent": null,
       "newest": 1794092704.287702,
-      "pending": "{\"key\": \"skytech6-CrimsonClans\", \"name\": \"CrimsonClans\", \"owner\": \"skytech6\", \"version\": \"2.1.2\", \"created\": 1794092704.287702, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Extension to Clans: Hearts per Clan and more!\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonClans/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonClans-2.1.2.png\", \"downloads\": 2902, \"categories\": \"Oakveil Update, Mods, 1.0 Update, Server\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonClans\", \"name\": \"CrimsonClans\", \"owner\": \"skytech6\", \"version\": \"2.1.2\", \"created\": 1794092704.287702, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Extension to Clans: Hearts per Clan and more!\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonClans/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonClans-2.1.2.png\", \"downloads\": 2904, \"categories\": \"Oakveil Update, Mods, 1.0 Update, Server\"}",
       "version": "2.1.2"
     },
     {
@@ -1822,7 +1822,7 @@
       "key": "skytech6-CrimsonHunt",
       "last_sent": null,
       "newest": 1794093416.905215,
-      "pending": "{\"key\": \"skytech6-CrimsonHunt\", \"name\": \"CrimsonHunt\", \"owner\": \"skytech6\", \"version\": \"1.0.3\", \"created\": 1794093416.905215, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Create battle-pass like rewards for V Blood hunting\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonHunt/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonHunt-1.0.3.png\", \"downloads\": 4069, \"categories\": \"Oakveil Update, Mods, 1.0 Update, Server\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonHunt\", \"name\": \"CrimsonHunt\", \"owner\": \"skytech6\", \"version\": \"1.0.3\", \"created\": 1794093416.905215, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Create battle-pass like rewards for V Blood hunting\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonHunt/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonHunt-1.0.3.png\", \"downloads\": 4071, \"categories\": \"Oakveil Update, Mods, 1.0 Update, Server\"}",
       "version": "1.0.3"
     },
     {
@@ -1864,7 +1864,7 @@
       "key": "skytech6-CrimsonQuest",
       "last_sent": null,
       "newest": 1794089816.948807,
-      "pending": "{\"key\": \"skytech6-CrimsonQuest\", \"name\": \"CrimsonQuest\", \"owner\": \"skytech6\", \"version\": \"1.0.1\", \"created\": 1794089816.948807, \"website\": \"https://github.com/CrimsonMods/CrimsonQuest/\", \"description\": \"Questing System\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonQuest/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonQuest-1.0.1.png\", \"downloads\": 2746, \"categories\": \"Oakveil Update, Mods, 1.0 Update, Server\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonQuest\", \"name\": \"CrimsonQuest\", \"owner\": \"skytech6\", \"version\": \"1.0.1\", \"created\": 1794089816.948807, \"website\": \"https://github.com/CrimsonMods/CrimsonQuest/\", \"description\": \"Questing System\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonQuest/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonQuest-1.0.1.png\", \"downloads\": 2747, \"categories\": \"Oakveil Update, Mods, 1.0 Update, Server\"}",
       "version": "1.0.1"
     },
     {
@@ -1892,7 +1892,7 @@
       "key": "skytech6-CrimsonStyle",
       "last_sent": null,
       "newest": 1794587687.888547,
-      "pending": "{\"key\": \"skytech6-CrimsonStyle\", \"name\": \"CrimsonStyle\", \"owner\": \"skytech6\", \"version\": \"0.1.5\", \"created\": 1794587687.888547, \"website\": \"https://github.com/CrimsonMods/CrimsonStyle\", \"description\": \"Give players cosmetic auras unlocked by items or available to everyone.\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonStyle/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonStyle-0.1.5.png\", \"downloads\": 46, \"categories\": \"Oakveil Update, Mods, Server\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonStyle\", \"name\": \"CrimsonStyle\", \"owner\": \"skytech6\", \"version\": \"0.1.5\", \"created\": 1794587687.888547, \"website\": \"https://github.com/CrimsonMods/CrimsonStyle\", \"description\": \"Give players cosmetic auras unlocked by items or available to everyone.\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonStyle/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonStyle-0.1.5.png\", \"downloads\": 47, \"categories\": \"Oakveil Update, Mods, Server\"}",
       "version": "0.1.5"
     },
     {
@@ -1934,7 +1934,7 @@
       "key": "skytech6-VAMP",
       "last_sent": null,
       "newest": 1794083118.843231,
-      "pending": "{\"key\": \"skytech6-VAMP\", \"name\": \"VAMP\", \"owner\": \"skytech6\", \"version\": \"2.0.0\", \"created\": 1794083118.843231, \"website\": \"https://vrising.wiki/\", \"description\": \"V Rising API Modding Platform\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/VAMP/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-VAMP-2.0.0.png\", \"downloads\": 17793, \"categories\": \"Oakveil Update, Mods, Server\"}",
+      "pending": "{\"key\": \"skytech6-VAMP\", \"name\": \"VAMP\", \"owner\": \"skytech6\", \"version\": \"2.0.0\", \"created\": 1794083118.843231, \"website\": \"https://vrising.wiki/\", \"description\": \"V Rising API Modding Platform\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/VAMP/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-VAMP-2.0.0.png\", \"downloads\": 17797, \"categories\": \"Oakveil Update, Mods, Server\"}",
       "version": "2.0.0"
     },
     {
