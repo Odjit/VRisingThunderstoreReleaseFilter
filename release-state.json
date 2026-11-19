@@ -471,7 +471,7 @@
       "key": "KebunCrom-KebunUI",
       "last_sent": null,
       "newest": 1795051119.273088,
-      "pending": "{\"key\": \"KebunCrom-KebunUI\", \"name\": \"KebunUI\", \"owner\": \"KebunCrom\", \"version\": \"1.0.1\", \"created\": 1795051119.273088, \"website\": \"\", \"description\": \"Bloodcraft client UI. Full features on the Kebun Crom server; basic mode (Eclipse sync) on any other Bloodcraft server.\", \"url\": \"https://thunderstore.io/c/v-rising/p/KebunCrom/KebunUI/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/KebunCrom-KebunUI-1.0.1.png\", \"downloads\": 360, \"categories\": \"Client\"}",
+      "pending": "{\"key\": \"KebunCrom-KebunUI\", \"name\": \"KebunUI\", \"owner\": \"KebunCrom\", \"version\": \"1.0.1\", \"created\": 1795051119.273088, \"website\": \"\", \"description\": \"Bloodcraft client UI. Full features on the Kebun Crom server; basic mode (Eclipse sync) on any other Bloodcraft server.\", \"url\": \"https://thunderstore.io/c/v-rising/p/KebunCrom/KebunUI/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/KebunCrom-KebunUI-1.0.1.png\", \"downloads\": 357, \"categories\": \"Client\"}",
       "version": "1.0.1"
     },
     {
@@ -562,7 +562,7 @@
       "key": "Loto-Grimoire",
       "last_sent": null,
       "newest": 1794073297.027175,
-      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.185\", \"created\": 1794073297.027175, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.185.png\", \"downloads\": 4752, \"categories\": \"Oakveil Update\"}",
+      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.185\", \"created\": 1794073297.027175, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.185.png\", \"downloads\": 4750, \"categories\": \"Oakveil Update\"}",
       "version": "2.42.185"
     },
     {
@@ -1416,7 +1416,7 @@
       "key": "ebkr-r2modman",
       "last_sent": null,
       "newest": 1793235215.419665,
-      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10855587, \"categories\": \"1.0 Update, Gloomrot Update\"}",
+      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10855477, \"categories\": \"1.0 Update, Gloomrot Update\"}",
       "version": "3.2.21"
     },
     {
@@ -1745,7 +1745,7 @@
       "key": "skytech6-AutoBrazier",
       "last_sent": null,
       "newest": 1794089495.752656,
-      "pending": "{\"key\": \"skytech6-AutoBrazier\", \"name\": \"AutoBrazier\", \"owner\": \"skytech6\", \"version\": \"2.0.2\", \"created\": 1794089495.752656, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Customize the functionality of the brazier\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/AutoBrazier/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-AutoBrazier-2.0.2.png\", \"downloads\": 16294, \"categories\": \"Oakveil Update, Mods, 1.0 Update, Server\"}",
+      "pending": "{\"key\": \"skytech6-AutoBrazier\", \"name\": \"AutoBrazier\", \"owner\": \"skytech6\", \"version\": \"2.0.2\", \"created\": 1794089495.752656, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Customize the functionality of the brazier\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/AutoBrazier/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-AutoBrazier-2.0.2.png\", \"downloads\": 16293, \"categories\": \"Oakveil Update, Mods, 1.0 Update, Server\"}",
       "version": "2.0.2"
     },
     {
@@ -1759,7 +1759,7 @@
       "key": "skytech6-CrimsonBanned",
       "last_sent": null,
       "newest": 1794091145.311186,
-      "pending": "{\"key\": \"skytech6-CrimsonBanned\", \"name\": \"CrimsonBanned\", \"owner\": \"skytech6\", \"version\": \"2.1.1\", \"created\": 1794091145.311186, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Ban Moderation Tool: Chat, Voice, Server\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonBanned/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonBanned-2.1.1.png\", \"downloads\": 1173, \"categories\": \"Oakveil Update, Mods, 1.0 Update, Server\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonBanned\", \"name\": \"CrimsonBanned\", \"owner\": \"skytech6\", \"version\": \"2.1.1\", \"created\": 1794091145.311186, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Ban Moderation Tool: Chat, Voice, Server\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonBanned/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonBanned-2.1.1.png\", \"downloads\": 1171, \"categories\": \"Oakveil Update, Mods, 1.0 Update, Server\"}",
       "version": "2.1.1"
     },
     {
@@ -1822,7 +1822,7 @@
       "key": "skytech6-CrimsonHunt",
       "last_sent": null,
       "newest": 1794093416.905215,
-      "pending": "{\"key\": \"skytech6-CrimsonHunt\", \"name\": \"CrimsonHunt\", \"owner\": \"skytech6\", \"version\": \"1.0.3\", \"created\": 1794093416.905215, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Create battle-pass like rewards for V Blood hunting\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonHunt/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonHunt-1.0.3.png\", \"downloads\": 4072, \"categories\": \"Oakveil Update, Mods, 1.0 Update, Server\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonHunt\", \"name\": \"CrimsonHunt\", \"owner\": \"skytech6\", \"version\": \"1.0.3\", \"created\": 1794093416.905215, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Create battle-pass like rewards for V Blood hunting\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonHunt/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonHunt-1.0.3.png\", \"downloads\": 4071, \"categories\": \"Oakveil Update, Mods, 1.0 Update, Server\"}",
       "version": "1.0.3"
     },
     {
@@ -1962,7 +1962,7 @@
       "key": "zeeCameLsnake-Horse_Appraiser",
       "last_sent": null,
       "newest": 1793661918.33326,
-      "pending": "{\"key\": \"zeeCameLsnake-Horse_Appraiser\", \"name\": \"Horse_Appraiser\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.0\", \"created\": 1793661918.33326, \"website\": \"https://www.nexusmods.com/vrising/mods/52\", \"description\": \"Which horse should you steal? Decide in seconds: percent of max per stat, color-coded weak/average/strong rolls and a weighted 0-10 rating, right in the horse window.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/Horse_Appraiser/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-Horse_Appraiser-1.0.0.png\", \"downloads\": 176, \"categories\": \"Oakveil Update, Mods, Client, 1.0 Update\"}",
+      "pending": "{\"key\": \"zeeCameLsnake-Horse_Appraiser\", \"name\": \"Horse_Appraiser\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.0\", \"created\": 1793661918.33326, \"website\": \"https://www.nexusmods.com/vrising/mods/52\", \"description\": \"Which horse should you steal? Decide in seconds: percent of max per stat, color-coded weak/average/strong rolls and a weighted 0-10 rating, right in the horse window.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/Horse_Appraiser/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-Horse_Appraiser-1.0.0.png\", \"downloads\": 175, \"categories\": \"Oakveil Update, Mods, Client, 1.0 Update\"}",
       "version": "1.0.0"
     },
     {
@@ -1983,7 +1983,7 @@
       "key": "zeeCameLsnake-V_Blood_Tracker",
       "last_sent": null,
       "newest": 1793369748.80719,
-      "pending": "{\"key\": \"zeeCameLsnake-V_Blood_Tracker\", \"name\": \"V_Blood_Tracker\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.16\", \"created\": 1793369748.80719, \"website\": \"https://www.nexusmods.com/vrising/mods/50\", \"description\": \"Shows the live direction and distance in meters to the tracked V Blood in the HUD tracking line, and lets you choose how often the blood trail appears.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/V_Blood_Tracker/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-V_Blood_Tracker-1.0.16.png\", \"downloads\": 263, \"categories\": \"Oakveil Update, Mods, Client\"}",
+      "pending": "{\"key\": \"zeeCameLsnake-V_Blood_Tracker\", \"name\": \"V_Blood_Tracker\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.16\", \"created\": 1793369748.80719, \"website\": \"https://www.nexusmods.com/vrising/mods/50\", \"description\": \"Shows the live direction and distance in meters to the tracked V Blood in the HUD tracking line, and lets you choose how often the blood trail appears.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/V_Blood_Tracker/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-V_Blood_Tracker-1.0.16.png\", \"downloads\": 262, \"categories\": \"Oakveil Update, Mods, Client\"}",
       "version": "1.0.16"
     },
     {
