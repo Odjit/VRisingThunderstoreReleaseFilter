@@ -562,7 +562,7 @@
       "key": "Loto-Grimoire",
       "last_sent": null,
       "newest": 1794073297.027175,
-      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.185\", \"created\": 1794073297.027175, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.185.png\", \"downloads\": 5124, \"categories\": \"Oakveil Update\"}",
+      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.185\", \"created\": 1794073297.027175, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.185.png\", \"downloads\": 5123, \"categories\": \"Oakveil Update\"}",
       "version": "2.42.185"
     },
     {
@@ -884,7 +884,7 @@
       "key": "SomeName-DeepRising",
       "last_sent": null,
       "newest": 1792786822.912026,
-      "pending": "{\"key\": \"SomeName-DeepRising\", \"name\": \"DeepRising\", \"owner\": \"SomeName\", \"version\": \"0.1.0\", \"created\": 1792786822.912026, \"website\": \"\", \"description\": \"A fishing overhaul: 12 new fish, waters, rods and baits, angler levels, a codex, four Legendary fish and a haul you play by hand. Server and client.\", \"url\": \"https://thunderstore.io/c/v-rising/p/SomeName/DeepRising/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/SomeName-DeepRising-0.1.0.png\", \"downloads\": 248, \"categories\": \"Oakveil Update, Mods, Client, Server\"}",
+      "pending": "{\"key\": \"SomeName-DeepRising\", \"name\": \"DeepRising\", \"owner\": \"SomeName\", \"version\": \"0.1.0\", \"created\": 1792786822.912026, \"website\": \"\", \"description\": \"A fishing overhaul: 12 new fish, waters, rods and baits, angler levels, a codex, four Legendary fish and a haul you play by hand. Server and client.\", \"url\": \"https://thunderstore.io/c/v-rising/p/SomeName/DeepRising/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/SomeName-DeepRising-0.1.0.png\", \"downloads\": 247, \"categories\": \"Oakveil Update, Mods, Client, Server\"}",
       "version": "0.1.0"
     },
     {
@@ -1416,7 +1416,7 @@
       "key": "ebkr-r2modman",
       "last_sent": null,
       "newest": 1793235215.419665,
-      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10878604, \"categories\": \"1.0 Update, Gloomrot Update\"}",
+      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10878427, \"categories\": \"1.0 Update, Gloomrot Update\"}",
       "version": "3.2.21"
     },
     {
@@ -1437,7 +1437,7 @@
       "key": "fumzou-NightBloom",
       "last_sent": null,
       "newest": 1795271963.785699,
-      "pending": "{\"key\": \"fumzou-NightBloom\", \"name\": \"NightBloom\", \"owner\": \"fumzou\", \"version\": \"1.1.0\", \"created\": 1795271963.785699, \"website\": \"https://thunderstore.io/c/v-rising/p/fumzou/NightBloom/\", \"description\": \"Server-side automatic castle garden: name a chest Fertilizer and one Harvest, plants grow twice as fast and ripe ones are harvested into your chests. Chat panels, alerts, harvest reports, 8 languages.\", \"url\": \"https://thunderstore.io/c/v-rising/p/fumzou/NightBloom/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/fumzou-NightBloom-1.1.0.png\", \"downloads\": 1244, \"categories\": \"Oakveil Update, Mods, Server\"}",
+      "pending": "{\"key\": \"fumzou-NightBloom\", \"name\": \"NightBloom\", \"owner\": \"fumzou\", \"version\": \"1.1.0\", \"created\": 1795271963.785699, \"website\": \"https://thunderstore.io/c/v-rising/p/fumzou/NightBloom/\", \"description\": \"Server-side automatic castle garden: name a chest Fertilizer and one Harvest, plants grow twice as fast and ripe ones are harvested into your chests. Chat panels, alerts, harvest reports, 8 languages.\", \"url\": \"https://thunderstore.io/c/v-rising/p/fumzou/NightBloom/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/fumzou-NightBloom-1.1.0.png\", \"downloads\": 1243, \"categories\": \"Oakveil Update, Mods, Server\"}",
       "version": "1.1.0"
     },
     {
@@ -1619,7 +1619,7 @@
       "key": "nocturne-NocturneCraft",
       "last_sent": null,
       "newest": 1794696360.292294,
-      "pending": "{\"key\": \"nocturne-NocturneCraft\", \"name\": \"NocturneCraft\", \"owner\": \"nocturne\", \"version\": \"1.0.1\", \"created\": 1794696360.292294, \"website\": \"\", \"description\": \"Nine boss ability kits with optional stat bonuses, 16 League keystones and 168 League items. Includes an in-game panel (F8) for every player.\", \"url\": \"https://thunderstore.io/c/v-rising/p/nocturne/NocturneCraft/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/nocturne-NocturneCraft-1.0.1.png\", \"downloads\": 91, \"categories\": \"Mods, Client\"}",
+      "pending": "{\"key\": \"nocturne-NocturneCraft\", \"name\": \"NocturneCraft\", \"owner\": \"nocturne\", \"version\": \"1.0.1\", \"created\": 1794696360.292294, \"website\": \"\", \"description\": \"Nine boss ability kits with optional stat bonuses, 16 League keystones and 168 League items. Includes an in-game panel (F8) for every player.\", \"url\": \"https://thunderstore.io/c/v-rising/p/nocturne/NocturneCraft/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/nocturne-NocturneCraft-1.0.1.png\", \"downloads\": 90, \"categories\": \"Mods, Client\"}",
       "version": "1.0.1"
     },
     {
@@ -1969,21 +1969,21 @@
       "key": "zeeCameLsnake-Castle_Freedom",
       "last_sent": null,
       "newest": 1795473987.802424,
-      "pending": "{\"key\": \"zeeCameLsnake-Castle_Freedom\", \"name\": \"Castle_Freedom\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.0\", \"created\": 1795473987.802424, \"website\": \"https://www.nexusmods.com/vrising/mods/62\", \"description\": \"Keep all speed and matching-floor bonuses for castle structures without roofs or enclosed box rooms! Touching a single matching tile is enough, so you can place castle-wide Treasury chests right beside your stations.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/Castle_Freedom/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-Castle_Freedom-1.0.0.png\", \"downloads\": 15, \"categories\": \"Oakveil Update, Mods, Client, Server\"}",
+      "pending": "{\"key\": \"zeeCameLsnake-Castle_Freedom\", \"name\": \"Castle_Freedom\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.0\", \"created\": 1795473987.802424, \"website\": \"https://www.nexusmods.com/vrising/mods/62\", \"description\": \"Keep all speed and matching-floor bonuses for castle structures without roofs or enclosed box rooms! Touching a single matching tile is enough, so you can place castle-wide Treasury chests right beside your stations.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/Castle_Freedom/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-Castle_Freedom-1.0.0.png\", \"downloads\": 13, \"categories\": \"Oakveil Update, Mods, Client, Server\"}",
       "version": "1.0.0"
     },
     {
       "key": "zeeCameLsnake-ConVicted",
       "last_sent": null,
       "newest": 1795443040.187717,
-      "pending": "{\"key\": \"zeeCameLsnake-ConVicted\", \"name\": \"ConVicted\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.1\", \"created\": 1795443040.187717, \"website\": \"https://www.nexusmods.com/vrising/mods/60\", \"description\": \"Keep your minions (and even fire, if enabled) from killing the targets you pick, keep the floating health bars in Blood Hunger, dim or switch off its red screen, and see the moment a unit can be subdued!\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/ConVicted/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-ConVicted-1.0.1.png\", \"downloads\": 44, \"categories\": \"Oakveil Update, Mods, Client, Server\"}",
+      "pending": "{\"key\": \"zeeCameLsnake-ConVicted\", \"name\": \"ConVicted\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.1\", \"created\": 1795443040.187717, \"website\": \"https://www.nexusmods.com/vrising/mods/60\", \"description\": \"Keep your minions (and even fire, if enabled) from killing the targets you pick, keep the floating health bars in Blood Hunger, dim or switch off its red screen, and see the moment a unit can be subdued!\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/ConVicted/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-ConVicted-1.0.1.png\", \"downloads\": 42, \"categories\": \"Oakveil Update, Mods, Client, Server\"}",
       "version": "1.0.1"
     },
     {
       "key": "zeeCameLsnake-Horse_Appraiser",
       "last_sent": null,
       "newest": 1793661918.33326,
-      "pending": "{\"key\": \"zeeCameLsnake-Horse_Appraiser\", \"name\": \"Horse_Appraiser\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.0\", \"created\": 1793661918.33326, \"website\": \"https://www.nexusmods.com/vrising/mods/52\", \"description\": \"Which horse should you steal? Decide in seconds: percent of max per stat, color-coded weak/average/strong rolls and a weighted 0-10 rating, right in the horse window.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/Horse_Appraiser/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-Horse_Appraiser-1.0.0.png\", \"downloads\": 212, \"categories\": \"Oakveil Update, Mods, Client, 1.0 Update\"}",
+      "pending": "{\"key\": \"zeeCameLsnake-Horse_Appraiser\", \"name\": \"Horse_Appraiser\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.0\", \"created\": 1793661918.33326, \"website\": \"https://www.nexusmods.com/vrising/mods/52\", \"description\": \"Which horse should you steal? Decide in seconds: percent of max per stat, color-coded weak/average/strong rolls and a weighted 0-10 rating, right in the horse window.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/Horse_Appraiser/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-Horse_Appraiser-1.0.0.png\", \"downloads\": 211, \"categories\": \"Oakveil Update, Mods, Client, 1.0 Update\"}",
       "version": "1.0.0"
     },
     {
@@ -1997,21 +1997,21 @@
       "key": "zeeCameLsnake-Solo_Pause",
       "last_sent": null,
       "newest": 1795450996.548689,
-      "pending": "{\"key\": \"zeeCameLsnake-Solo_Pause\", \"name\": \"Solo_Pause\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.1.0\", \"created\": 1795450996.548689, \"website\": \"https://www.nexusmods.com/vrising/mods/56\", \"description\": \"Need a break? Just press ESC: the world pauses automatically while the menu is open and resumes when you close it. No more clicking Pause every time. For solo and local games.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/Solo_Pause/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-Solo_Pause-1.1.0.png\", \"downloads\": 203, \"categories\": \"Oakveil Update, Mods, Client, 1.0 Update\"}",
+      "pending": "{\"key\": \"zeeCameLsnake-Solo_Pause\", \"name\": \"Solo_Pause\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.1.0\", \"created\": 1795450996.548689, \"website\": \"https://www.nexusmods.com/vrising/mods/56\", \"description\": \"Need a break? Just press ESC: the world pauses automatically while the menu is open and resumes when you close it. No more clicking Pause every time. For solo and local games.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/Solo_Pause/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-Solo_Pause-1.1.0.png\", \"downloads\": 202, \"categories\": \"Oakveil Update, Mods, Client, 1.0 Update\"}",
       "version": "1.1.0"
     },
     {
       "key": "zeeCameLsnake-V_Blood_Tracker",
       "last_sent": null,
       "newest": 1795452207.626007,
-      "pending": "{\"key\": \"zeeCameLsnake-V_Blood_Tracker\", \"name\": \"V_Blood_Tracker\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.17\", \"created\": 1795452207.626007, \"website\": \"https://www.nexusmods.com/vrising/mods/50\", \"description\": \"Shows the live direction and distance in meters to the tracked V Blood in the HUD tracking line, and lets you choose how often the blood trail appears.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/V_Blood_Tracker/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-V_Blood_Tracker-1.0.17.png\", \"downloads\": 349, \"categories\": \"Oakveil Update, Mods, Client\"}",
+      "pending": "{\"key\": \"zeeCameLsnake-V_Blood_Tracker\", \"name\": \"V_Blood_Tracker\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.17\", \"created\": 1795452207.626007, \"website\": \"https://www.nexusmods.com/vrising/mods/50\", \"description\": \"Shows the live direction and distance in meters to the tracked V Blood in the HUD tracking line, and lets you choose how often the blood trail appears.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/V_Blood_Tracker/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-V_Blood_Tracker-1.0.17.png\", \"downloads\": 346, \"categories\": \"Oakveil Update, Mods, Client\"}",
       "version": "1.0.17"
     },
     {
       "key": "zeeCameLsnake-VeinControl",
       "last_sent": null,
       "newest": 1795166472.959997,
-      "pending": "{\"key\": \"zeeCameLsnake-VeinControl\", \"name\": \"VeinControl\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.0\", \"created\": 1795166472.959997, \"website\": \"https://www.nexusmods.com/vrising/mods/61\", \"description\": \"The bite you can take back: stop a feed early with your interrupt key, and your high-blood target survives. Biting gets its own key, so Interact grabs the loot next to wounded enemies instead of their throat.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/VeinControl/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-VeinControl-1.0.0.png\", \"downloads\": 34, \"categories\": \"Oakveil Update, Mods, Client, Server\"}",
+      "pending": "{\"key\": \"zeeCameLsnake-VeinControl\", \"name\": \"VeinControl\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.0\", \"created\": 1795166472.959997, \"website\": \"https://www.nexusmods.com/vrising/mods/61\", \"description\": \"The bite you can take back: stop a feed early with your interrupt key, and your high-blood target survives. Biting gets its own key, so Interact grabs the loot next to wounded enemies instead of their throat.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/VeinControl/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-VeinControl-1.0.0.png\", \"downloads\": 33, \"categories\": \"Oakveil Update, Mods, Client, Server\"}",
       "version": "1.0.0"
     },
     {
