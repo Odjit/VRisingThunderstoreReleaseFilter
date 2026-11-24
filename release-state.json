@@ -72,7 +72,7 @@
       "key": "BLOODLUST-WeaponsOnBLOODLUST",
       "last_sent": null,
       "newest": 1795023771.448411,
-      "pending": "{\"key\": \"BLOODLUST-WeaponsOnBLOODLUST\", \"name\": \"WeaponsOnBLOODLUST\", \"owner\": \"BLOODLUST\", \"version\": \"1.1.0\", \"created\": 1795023771.448411, \"website\": \"https://wargm.ru/server/81982\", \"description\": \"Client-side renamer for the BLOODLUST server: red custom RU/EN weapon names in tooltip, inventory, crafting, shop and Eclipse UI, plus a custom description line.\", \"url\": \"https://thunderstore.io/c/v-rising/p/BLOODLUST/WeaponsOnBLOODLUST/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/BLOODLUST-WeaponsOnBLOODLUST-1.1.0.png\", \"downloads\": 43, \"categories\": \"Client\"}",
+      "pending": "{\"key\": \"BLOODLUST-WeaponsOnBLOODLUST\", \"name\": \"WeaponsOnBLOODLUST\", \"owner\": \"BLOODLUST\", \"version\": \"1.1.0\", \"created\": 1795023771.448411, \"website\": \"https://wargm.ru/server/81982\", \"description\": \"Client-side renamer for the BLOODLUST server: red custom RU/EN weapon names in tooltip, inventory, crafting, shop and Eclipse UI, plus a custom description line.\", \"url\": \"https://thunderstore.io/c/v-rising/p/BLOODLUST/WeaponsOnBLOODLUST/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/BLOODLUST-WeaponsOnBLOODLUST-1.1.0.png\", \"downloads\": 42, \"categories\": \"Client\"}",
       "version": "1.1.0"
     },
     {
@@ -1416,7 +1416,7 @@
       "key": "ebkr-r2modman",
       "last_sent": null,
       "newest": 1793235215.419665,
-      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10879292, \"categories\": \"1.0 Update, Gloomrot Update\"}",
+      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10879139, \"categories\": \"1.0 Update, Gloomrot Update\"}",
       "version": "3.2.21"
     },
     {
@@ -1780,7 +1780,7 @@
       "key": "skytech6-CrimsonClans",
       "last_sent": null,
       "newest": 1794092704.287702,
-      "pending": "{\"key\": \"skytech6-CrimsonClans\", \"name\": \"CrimsonClans\", \"owner\": \"skytech6\", \"version\": \"2.1.2\", \"created\": 1794092704.287702, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Extension to Clans: Hearts per Clan and more!\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonClans/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonClans-2.1.2.png\", \"downloads\": 2948, \"categories\": \"Oakveil Update, Mods, 1.0 Update, Server\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonClans\", \"name\": \"CrimsonClans\", \"owner\": \"skytech6\", \"version\": \"2.1.2\", \"created\": 1794092704.287702, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Extension to Clans: Hearts per Clan and more!\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonClans/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonClans-2.1.2.png\", \"downloads\": 2947, \"categories\": \"Oakveil Update, Mods, 1.0 Update, Server\"}",
       "version": "2.1.2"
     },
     {
@@ -1794,7 +1794,7 @@
       "key": "skytech6-CrimsonDropRate",
       "last_sent": null,
       "newest": 1794088688.890723,
-      "pending": "{\"key\": \"skytech6-CrimsonDropRate\", \"name\": \"CrimsonDropRate\", \"owner\": \"skytech6\", \"version\": \"2.0.2\", \"created\": 1794088688.890723, \"website\": \"https://github.com/CrimsonMods/CrimsonDropRate/\", \"description\": \"Modifies the item group drop rate, not the item quantity drop\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonDropRate/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonDropRate-2.0.2.png\", \"downloads\": 3818, \"categories\": \"Oakveil Update, Mods, 1.0 Update, Server\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonDropRate\", \"name\": \"CrimsonDropRate\", \"owner\": \"skytech6\", \"version\": \"2.0.2\", \"created\": 1794088688.890723, \"website\": \"https://github.com/CrimsonMods/CrimsonDropRate/\", \"description\": \"Modifies the item group drop rate, not the item quantity drop\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonDropRate/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonDropRate-2.0.2.png\", \"downloads\": 3817, \"categories\": \"Oakveil Update, Mods, 1.0 Update, Server\"}",
       "version": "2.0.2"
     },
     {
@@ -1941,7 +1941,7 @@
       "key": "skytech6-VAMP",
       "last_sent": null,
       "newest": 1794083118.843231,
-      "pending": "{\"key\": \"skytech6-VAMP\", \"name\": \"VAMP\", \"owner\": \"skytech6\", \"version\": \"2.0.0\", \"created\": 1794083118.843231, \"website\": \"https://vrising.wiki/\", \"description\": \"V Rising API Modding Platform\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/VAMP/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-VAMP-2.0.0.png\", \"downloads\": 18017, \"categories\": \"Oakveil Update, Mods, Server\"}",
+      "pending": "{\"key\": \"skytech6-VAMP\", \"name\": \"VAMP\", \"owner\": \"skytech6\", \"version\": \"2.0.0\", \"created\": 1794083118.843231, \"website\": \"https://vrising.wiki/\", \"description\": \"V Rising API Modding Platform\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/VAMP/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-VAMP-2.0.0.png\", \"downloads\": 18015, \"categories\": \"Oakveil Update, Mods, Server\"}",
       "version": "2.0.0"
     },
     {
@@ -1976,7 +1976,7 @@
       "key": "zeeCameLsnake-ConVicted",
       "last_sent": null,
       "newest": 1795443040.187717,
-      "pending": "{\"key\": \"zeeCameLsnake-ConVicted\", \"name\": \"ConVicted\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.1\", \"created\": 1795443040.187717, \"website\": \"https://www.nexusmods.com/vrising/mods/60\", \"description\": \"Keep your minions (and even fire, if enabled) from killing the targets you pick, keep the floating health bars in Blood Hunger, dim or switch off its red screen, and see the moment a unit can be subdued!\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/ConVicted/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-ConVicted-1.0.1.png\", \"downloads\": 46, \"categories\": \"Oakveil Update, Mods, Client, Server\"}",
+      "pending": "{\"key\": \"zeeCameLsnake-ConVicted\", \"name\": \"ConVicted\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.1\", \"created\": 1795443040.187717, \"website\": \"https://www.nexusmods.com/vrising/mods/60\", \"description\": \"Keep your minions (and even fire, if enabled) from killing the targets you pick, keep the floating health bars in Blood Hunger, dim or switch off its red screen, and see the moment a unit can be subdued!\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/ConVicted/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-ConVicted-1.0.1.png\", \"downloads\": 45, \"categories\": \"Oakveil Update, Mods, Client, Server\"}",
       "version": "1.0.1"
     },
     {
