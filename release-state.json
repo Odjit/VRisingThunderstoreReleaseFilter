@@ -72,7 +72,7 @@
       "key": "BLOODLUST-WeaponsOnBLOODLUST",
       "last_sent": null,
       "newest": 1795023771.448411,
-      "pending": "{\"key\": \"BLOODLUST-WeaponsOnBLOODLUST\", \"name\": \"WeaponsOnBLOODLUST\", \"owner\": \"BLOODLUST\", \"version\": \"1.1.0\", \"created\": 1795023771.448411, \"website\": \"https://wargm.ru/server/81982\", \"description\": \"Client-side renamer for the BLOODLUST server: red custom RU/EN weapon names in tooltip, inventory, crafting, shop and Eclipse UI, plus a custom description line.\", \"url\": \"https://thunderstore.io/c/v-rising/p/BLOODLUST/WeaponsOnBLOODLUST/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/BLOODLUST-WeaponsOnBLOODLUST-1.1.0.png\", \"downloads\": 49, \"categories\": \"Client\"}",
+      "pending": "{\"key\": \"BLOODLUST-WeaponsOnBLOODLUST\", \"name\": \"WeaponsOnBLOODLUST\", \"owner\": \"BLOODLUST\", \"version\": \"1.1.0\", \"created\": 1795023771.448411, \"website\": \"https://wargm.ru/server/81982\", \"description\": \"Client-side renamer for the BLOODLUST server: red custom RU/EN weapon names in tooltip, inventory, crafting, shop and Eclipse UI, plus a custom description line.\", \"url\": \"https://thunderstore.io/c/v-rising/p/BLOODLUST/WeaponsOnBLOODLUST/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/BLOODLUST-WeaponsOnBLOODLUST-1.1.0.png\", \"downloads\": 50, \"categories\": \"Client\"}",
       "version": "1.1.0"
     },
     {
@@ -303,7 +303,7 @@
       "key": "FAiNEL-Eclipse_by_FAiNEL",
       "last_sent": null,
       "newest": 1795030962.066226,
-      "pending": "{\"key\": \"FAiNEL-Eclipse_by_FAiNEL\", \"name\": \"Eclipse_by_FAiNEL\", \"owner\": \"FAiNEL\", \"version\": \"1.3.2\", \"created\": 1795030962.066226, \"website\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/Eclipse_by_FAiNEL/\", \"description\": \"QoL UI fixes for EclipsePlus (EclipsePlus by Dinasor included, pre-patched for 1.3.9): Stat Bonuses icons, x1.5 synergy markers, tab glow, 4/4 slots, one-click prestige buttons, 28-type leaderboard, Russian UI, Headgear bonuses + head-slot costume window.\", \"url\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/Eclipse_by_FAiNEL/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/FAiNEL-Eclipse_by_FAiNEL-1.3.2.png\", \"downloads\": 341, \"categories\": \"Client, Mods\"}",
+      "pending": "{\"key\": \"FAiNEL-Eclipse_by_FAiNEL\", \"name\": \"Eclipse_by_FAiNEL\", \"owner\": \"FAiNEL\", \"version\": \"1.3.2\", \"created\": 1795030962.066226, \"website\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/Eclipse_by_FAiNEL/\", \"description\": \"QoL UI fixes for EclipsePlus (EclipsePlus by Dinasor included, pre-patched for 1.3.9): Stat Bonuses icons, x1.5 synergy markers, tab glow, 4/4 slots, one-click prestige buttons, 28-type leaderboard, Russian UI, Headgear bonuses + head-slot costume window.\", \"url\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/Eclipse_by_FAiNEL/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/FAiNEL-Eclipse_by_FAiNEL-1.3.2.png\", \"downloads\": 342, \"categories\": \"Client, Mods\"}",
       "version": "1.3.2"
     },
     {
@@ -450,7 +450,7 @@
       "key": "Jumlearn-DisableEffect",
       "last_sent": null,
       "newest": 1795677737.005858,
-      "pending": "{\"key\": \"Jumlearn-DisableEffect\", \"name\": \"DisableEffect\", \"owner\": \"Jumlearn\", \"version\": \"1.0.0\", \"created\": 1795677737.005858, \"website\": \"https://github.com/andrewhtoo/Disable-Effect.git\", \"description\": \"Removes a desire skill effect so it will not clutter your screen only Projectile skills,Barriers,Shields  will stay visible\", \"url\": \"https://thunderstore.io/c/v-rising/p/Jumlearn/DisableEffect/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Jumlearn-DisableEffect-1.0.0.png\", \"downloads\": 3, \"categories\": \"Client, Mods\"}",
+      "pending": "{\"key\": \"Jumlearn-DisableEffect\", \"name\": \"DisableEffect\", \"owner\": \"Jumlearn\", \"version\": \"1.0.0\", \"created\": 1795677737.005858, \"website\": \"https://github.com/andrewhtoo/Disable-Effect.git\", \"description\": \"Removes a desire skill effect so it will not clutter your screen only Projectile skills,Barriers,Shields  will stay visible\", \"url\": \"https://thunderstore.io/c/v-rising/p/Jumlearn/DisableEffect/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Jumlearn-DisableEffect-1.0.0.png\", \"downloads\": 4, \"categories\": \"Client, Mods\"}",
       "version": "1.0.0"
     },
     {
@@ -478,7 +478,7 @@
       "key": "KebunCrom-KebunUI",
       "last_sent": null,
       "newest": 1795051119.273088,
-      "pending": "{\"key\": \"KebunCrom-KebunUI\", \"name\": \"KebunUI\", \"owner\": \"KebunCrom\", \"version\": \"1.0.1\", \"created\": 1795051119.273088, \"website\": \"\", \"description\": \"Bloodcraft client UI. Full features on the Kebun Crom server; basic mode (Eclipse sync) on any other Bloodcraft server.\", \"url\": \"https://thunderstore.io/c/v-rising/p/KebunCrom/KebunUI/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/KebunCrom-KebunUI-1.0.1.png\", \"downloads\": 452, \"categories\": \"Client\"}",
+      "pending": "{\"key\": \"KebunCrom-KebunUI\", \"name\": \"KebunUI\", \"owner\": \"KebunCrom\", \"version\": \"1.0.1\", \"created\": 1795051119.273088, \"website\": \"\", \"description\": \"Bloodcraft client UI. Full features on the Kebun Crom server; basic mode (Eclipse sync) on any other Bloodcraft server.\", \"url\": \"https://thunderstore.io/c/v-rising/p/KebunCrom/KebunUI/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/KebunCrom-KebunUI-1.0.1.png\", \"downloads\": 453, \"categories\": \"Client\"}",
       "version": "1.0.1"
     },
     {
@@ -569,7 +569,7 @@
       "key": "Loto-Grimoire",
       "last_sent": null,
       "newest": 1794073297.027175,
-      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.185\", \"created\": 1794073297.027175, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.185.png\", \"downloads\": 5203, \"categories\": \"Oakveil Update\"}",
+      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.185\", \"created\": 1794073297.027175, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.185.png\", \"downloads\": 5205, \"categories\": \"Oakveil Update\"}",
       "version": "2.42.185"
     },
     {
@@ -1024,7 +1024,7 @@
       "key": "Tomato144-PVESieges",
       "last_sent": null,
       "newest": 1793804265.00728,
-      "pending": "{\"key\": \"Tomato144-PVESieges\", \"name\": \"PVESieges\", \"owner\": \"Tomato144\", \"version\": \"1.0.363\", \"created\": 1793804265.00728, \"website\": \"\", \"description\": \"PvE castle sieges: bandits, militia, the Legion and more raid your castle in waves. Sappers bomb your gates, Raid Captains lead the charge, V Blood kills bring revenge raids. Win for loot.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tomato144/PVESieges/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tomato144-PVESieges-1.0.363.png\", \"downloads\": 1581, \"categories\": \"Server, Mods\"}",
+      "pending": "{\"key\": \"Tomato144-PVESieges\", \"name\": \"PVESieges\", \"owner\": \"Tomato144\", \"version\": \"1.0.363\", \"created\": 1793804265.00728, \"website\": \"\", \"description\": \"PvE castle sieges: bandits, militia, the Legion and more raid your castle in waves. Sappers bomb your gates, Raid Captains lead the charge, V Blood kills bring revenge raids. Win for loot.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tomato144/PVESieges/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tomato144-PVESieges-1.0.363.png\", \"downloads\": 1582, \"categories\": \"Server, Mods\"}",
       "version": "1.0.363"
     },
     {
@@ -1423,7 +1423,7 @@
       "key": "ebkr-r2modman",
       "last_sent": null,
       "newest": 1793235215.419665,
-      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10885313, \"categories\": \"1.0 Update, Gloomrot Update\"}",
+      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10885519, \"categories\": \"1.0 Update, Gloomrot Update\"}",
       "version": "3.2.21"
     },
     {
@@ -1444,7 +1444,7 @@
       "key": "fumzou-NightBloom",
       "last_sent": null,
       "newest": 1795271963.785699,
-      "pending": "{\"key\": \"fumzou-NightBloom\", \"name\": \"NightBloom\", \"owner\": \"fumzou\", \"version\": \"1.1.0\", \"created\": 1795271963.785699, \"website\": \"https://thunderstore.io/c/v-rising/p/fumzou/NightBloom/\", \"description\": \"Server-side automatic castle garden: name a chest Fertilizer and one Harvest, plants grow twice as fast and ripe ones are harvested into your chests. Chat panels, alerts, harvest reports, 8 languages.\", \"url\": \"https://thunderstore.io/c/v-rising/p/fumzou/NightBloom/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/fumzou-NightBloom-1.1.0.png\", \"downloads\": 1258, \"categories\": \"Oakveil Update, Server, Mods\"}",
+      "pending": "{\"key\": \"fumzou-NightBloom\", \"name\": \"NightBloom\", \"owner\": \"fumzou\", \"version\": \"1.1.0\", \"created\": 1795271963.785699, \"website\": \"https://thunderstore.io/c/v-rising/p/fumzou/NightBloom/\", \"description\": \"Server-side automatic castle garden: name a chest Fertilizer and one Harvest, plants grow twice as fast and ripe ones are harvested into your chests. Chat panels, alerts, harvest reports, 8 languages.\", \"url\": \"https://thunderstore.io/c/v-rising/p/fumzou/NightBloom/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/fumzou-NightBloom-1.1.0.png\", \"downloads\": 1259, \"categories\": \"Oakveil Update, Server, Mods\"}",
       "version": "1.1.0"
     },
     {
@@ -1626,7 +1626,7 @@
       "key": "nocturne-NocturneCraft",
       "last_sent": null,
       "newest": 1794696360.292294,
-      "pending": "{\"key\": \"nocturne-NocturneCraft\", \"name\": \"NocturneCraft\", \"owner\": \"nocturne\", \"version\": \"1.0.1\", \"created\": 1794696360.292294, \"website\": \"\", \"description\": \"Nine boss ability kits with optional stat bonuses, 16 League keystones and 168 League items. Includes an in-game panel (F8) for every player.\", \"url\": \"https://thunderstore.io/c/v-rising/p/nocturne/NocturneCraft/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/nocturne-NocturneCraft-1.0.1.png\", \"downloads\": 105, \"categories\": \"Client, Mods\"}",
+      "pending": "{\"key\": \"nocturne-NocturneCraft\", \"name\": \"NocturneCraft\", \"owner\": \"nocturne\", \"version\": \"1.0.1\", \"created\": 1794696360.292294, \"website\": \"\", \"description\": \"Nine boss ability kits with optional stat bonuses, 16 League keystones and 168 League items. Includes an in-game panel (F8) for every player.\", \"url\": \"https://thunderstore.io/c/v-rising/p/nocturne/NocturneCraft/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/nocturne-NocturneCraft-1.0.1.png\", \"downloads\": 106, \"categories\": \"Client, Mods\"}",
       "version": "1.0.1"
     },
     {
@@ -1780,7 +1780,7 @@
       "key": "skytech6-CrimsonChatFilter",
       "last_sent": null,
       "newest": 1794090219.175027,
-      "pending": "{\"key\": \"skytech6-CrimsonChatFilter\", \"name\": \"CrimsonChatFilter\", \"owner\": \"skytech6\", \"version\": \"2.1.1\", \"created\": 1794090219.175027, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Automated Moderation for Server Chat\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonChatFilter/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonChatFilter-2.1.1.png\", \"downloads\": 2356, \"categories\": \"Oakveil Update, Server, 1.0 Update, Mods\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonChatFilter\", \"name\": \"CrimsonChatFilter\", \"owner\": \"skytech6\", \"version\": \"2.1.1\", \"created\": 1794090219.175027, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Automated Moderation for Server Chat\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonChatFilter/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonChatFilter-2.1.1.png\", \"downloads\": 2357, \"categories\": \"Oakveil Update, Server, 1.0 Update, Mods\"}",
       "version": "2.1.1"
     },
     {
@@ -1801,7 +1801,7 @@
       "key": "skytech6-CrimsonDropRate",
       "last_sent": null,
       "newest": 1794088688.890723,
-      "pending": "{\"key\": \"skytech6-CrimsonDropRate\", \"name\": \"CrimsonDropRate\", \"owner\": \"skytech6\", \"version\": \"2.0.2\", \"created\": 1794088688.890723, \"website\": \"https://github.com/CrimsonMods/CrimsonDropRate/\", \"description\": \"Modifies the item group drop rate, not the item quantity drop\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonDropRate/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonDropRate-2.0.2.png\", \"downloads\": 3824, \"categories\": \"Oakveil Update, Server, 1.0 Update, Mods\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonDropRate\", \"name\": \"CrimsonDropRate\", \"owner\": \"skytech6\", \"version\": \"2.0.2\", \"created\": 1794088688.890723, \"website\": \"https://github.com/CrimsonMods/CrimsonDropRate/\", \"description\": \"Modifies the item group drop rate, not the item quantity drop\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonDropRate/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonDropRate-2.0.2.png\", \"downloads\": 3825, \"categories\": \"Oakveil Update, Server, 1.0 Update, Mods\"}",
       "version": "2.0.2"
     },
     {
@@ -1822,7 +1822,7 @@
       "key": "skytech6-CrimsonFOV",
       "last_sent": null,
       "newest": 1794088027.262407,
-      "pending": "{\"key\": \"skytech6-CrimsonFOV\", \"name\": \"CrimsonFOV\", \"owner\": \"skytech6\", \"version\": \"1.0.2\", \"created\": 1794088027.262407, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Modifies the client camera field of view\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonFOV/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonFOV-1.0.2.png\", \"downloads\": 6018, \"categories\": \"Oakveil Update, Client, 1.0 Update, Mods\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonFOV\", \"name\": \"CrimsonFOV\", \"owner\": \"skytech6\", \"version\": \"1.0.2\", \"created\": 1794088027.262407, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Modifies the client camera field of view\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonFOV/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonFOV-1.0.2.png\", \"downloads\": 6019, \"categories\": \"Oakveil Update, Client, 1.0 Update, Mods\"}",
       "version": "1.0.2"
     },
     {
@@ -1948,7 +1948,7 @@
       "key": "skytech6-VAMP",
       "last_sent": null,
       "newest": 1794083118.843231,
-      "pending": "{\"key\": \"skytech6-VAMP\", \"name\": \"VAMP\", \"owner\": \"skytech6\", \"version\": \"2.0.0\", \"created\": 1794083118.843231, \"website\": \"https://vrising.wiki/\", \"description\": \"V Rising API Modding Platform\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/VAMP/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-VAMP-2.0.0.png\", \"downloads\": 18064, \"categories\": \"Oakveil Update, Server, Mods\"}",
+      "pending": "{\"key\": \"skytech6-VAMP\", \"name\": \"VAMP\", \"owner\": \"skytech6\", \"version\": \"2.0.0\", \"created\": 1794083118.843231, \"website\": \"https://vrising.wiki/\", \"description\": \"V Rising API Modding Platform\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/VAMP/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-VAMP-2.0.0.png\", \"downloads\": 18065, \"categories\": \"Oakveil Update, Server, Mods\"}",
       "version": "2.0.0"
     },
     {
@@ -1976,7 +1976,7 @@
       "key": "zeeCameLsnake-Castle_Freedom",
       "last_sent": null,
       "newest": 1795473987.802424,
-      "pending": "{\"key\": \"zeeCameLsnake-Castle_Freedom\", \"name\": \"Castle_Freedom\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.0\", \"created\": 1795473987.802424, \"website\": \"https://www.nexusmods.com/vrising/mods/62\", \"description\": \"Keep all speed and matching-floor bonuses for castle structures without roofs or enclosed box rooms! Touching a single matching tile is enough, so you can place castle-wide Treasury chests right beside your stations.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/Castle_Freedom/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-Castle_Freedom-1.0.0.png\", \"downloads\": 30, \"categories\": \"Oakveil Update, Client, Mods, Server\"}",
+      "pending": "{\"key\": \"zeeCameLsnake-Castle_Freedom\", \"name\": \"Castle_Freedom\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.0\", \"created\": 1795473987.802424, \"website\": \"https://www.nexusmods.com/vrising/mods/62\", \"description\": \"Keep all speed and matching-floor bonuses for castle structures without roofs or enclosed box rooms! Touching a single matching tile is enough, so you can place castle-wide Treasury chests right beside your stations.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/Castle_Freedom/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-Castle_Freedom-1.0.0.png\", \"downloads\": 31, \"categories\": \"Oakveil Update, Client, Mods, Server\"}",
       "version": "1.0.0"
     },
     {
@@ -2004,14 +2004,14 @@
       "key": "zeeCameLsnake-Solo_Pause",
       "last_sent": null,
       "newest": 1795450996.548689,
-      "pending": "{\"key\": \"zeeCameLsnake-Solo_Pause\", \"name\": \"Solo_Pause\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.1.0\", \"created\": 1795450996.548689, \"website\": \"https://www.nexusmods.com/vrising/mods/56\", \"description\": \"Need a break? Just press ESC: the world pauses automatically while the menu is open and resumes when you close it. No more clicking Pause every time. For solo and local games.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/Solo_Pause/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-Solo_Pause-1.1.0.png\", \"downloads\": 220, \"categories\": \"Oakveil Update, Client, 1.0 Update, Mods\"}",
+      "pending": "{\"key\": \"zeeCameLsnake-Solo_Pause\", \"name\": \"Solo_Pause\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.1.0\", \"created\": 1795450996.548689, \"website\": \"https://www.nexusmods.com/vrising/mods/56\", \"description\": \"Need a break? Just press ESC: the world pauses automatically while the menu is open and resumes when you close it. No more clicking Pause every time. For solo and local games.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/Solo_Pause/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-Solo_Pause-1.1.0.png\", \"downloads\": 223, \"categories\": \"Oakveil Update, Client, 1.0 Update, Mods\"}",
       "version": "1.1.0"
     },
     {
       "key": "zeeCameLsnake-V_Blood_Tracker",
       "last_sent": null,
       "newest": 1795452207.626007,
-      "pending": "{\"key\": \"zeeCameLsnake-V_Blood_Tracker\", \"name\": \"V_Blood_Tracker\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.17\", \"created\": 1795452207.626007, \"website\": \"https://www.nexusmods.com/vrising/mods/50\", \"description\": \"Shows the live direction and distance in meters to the tracked V Blood in the HUD tracking line, and lets you choose how often the blood trail appears.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/V_Blood_Tracker/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-V_Blood_Tracker-1.0.17.png\", \"downloads\": 381, \"categories\": \"Oakveil Update, Client, Mods\"}",
+      "pending": "{\"key\": \"zeeCameLsnake-V_Blood_Tracker\", \"name\": \"V_Blood_Tracker\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.17\", \"created\": 1795452207.626007, \"website\": \"https://www.nexusmods.com/vrising/mods/50\", \"description\": \"Shows the live direction and distance in meters to the tracked V Blood in the HUD tracking line, and lets you choose how often the blood trail appears.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/V_Blood_Tracker/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-V_Blood_Tracker-1.0.17.png\", \"downloads\": 383, \"categories\": \"Oakveil Update, Client, Mods\"}",
       "version": "1.0.17"
     },
     {
