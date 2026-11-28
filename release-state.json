@@ -317,7 +317,7 @@
       "key": "FAiNEL-ShopUI_Client",
       "last_sent": null,
       "newest": 1795029707.296782,
-      "pending": "{\"key\": \"FAiNEL-ShopUI_Client\", \"name\": \"ShopUI_Client\", \"owner\": \"FAiNEL\", \"version\": \"0.1.12\", \"created\": 1795029707.296782, \"website\": \"https://wargm.ru/server/81982\", \"description\": \"CLIENT-ONLY build of ShopUI for V Rising: merchant (NPC trader) panel, trader names above NPCs, 7 colour schemes. Requires the ShopUI server module on the server - the client alone does nothing. Made for the BLOODLUST server.\", \"url\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/ShopUI_Client/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/FAiNEL-ShopUI_Client-0.1.12.png\", \"downloads\": 232, \"categories\": \"Client, Mods\"}",
+      "pending": "{\"key\": \"FAiNEL-ShopUI_Client\", \"name\": \"ShopUI_Client\", \"owner\": \"FAiNEL\", \"version\": \"0.1.12\", \"created\": 1795029707.296782, \"website\": \"https://wargm.ru/server/81982\", \"description\": \"CLIENT-ONLY build of ShopUI for V Rising: merchant (NPC trader) panel, trader names above NPCs, 7 colour schemes. Requires the ShopUI server module on the server - the client alone does nothing. Made for the BLOODLUST server.\", \"url\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/ShopUI_Client/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/FAiNEL-ShopUI_Client-0.1.12.png\", \"downloads\": 233, \"categories\": \"Client, Mods\"}",
       "version": "0.1.12"
     },
     {
@@ -569,7 +569,7 @@
       "key": "Loto-Grimoire",
       "last_sent": null,
       "newest": 1794073297.027175,
-      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.185\", \"created\": 1794073297.027175, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.185.png\", \"downloads\": 5311, \"categories\": \"Oakveil Update\"}",
+      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.185\", \"created\": 1794073297.027175, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.185.png\", \"downloads\": 5312, \"categories\": \"Oakveil Update\"}",
       "version": "2.42.185"
     },
     {
@@ -1024,7 +1024,7 @@
       "key": "Tomato144-PVESieges",
       "last_sent": null,
       "newest": 1793804265.00728,
-      "pending": "{\"key\": \"Tomato144-PVESieges\", \"name\": \"PVESieges\", \"owner\": \"Tomato144\", \"version\": \"1.0.363\", \"created\": 1793804265.00728, \"website\": \"\", \"description\": \"PvE castle sieges: bandits, militia, the Legion and more raid your castle in waves. Sappers bomb your gates, Raid Captains lead the charge, V Blood kills bring revenge raids. Win for loot.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tomato144/PVESieges/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tomato144-PVESieges-1.0.363.png\", \"downloads\": 1634, \"categories\": \"Server, Mods\"}",
+      "pending": "{\"key\": \"Tomato144-PVESieges\", \"name\": \"PVESieges\", \"owner\": \"Tomato144\", \"version\": \"1.0.363\", \"created\": 1793804265.00728, \"website\": \"\", \"description\": \"PvE castle sieges: bandits, militia, the Legion and more raid your castle in waves. Sappers bomb your gates, Raid Captains lead the charge, V Blood kills bring revenge raids. Win for loot.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tomato144/PVESieges/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tomato144-PVESieges-1.0.363.png\", \"downloads\": 1635, \"categories\": \"Server, Mods\"}",
       "version": "1.0.363"
     },
     {
@@ -1423,7 +1423,7 @@
       "key": "ebkr-r2modman",
       "last_sent": null,
       "newest": 1793235215.419665,
-      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10892443, \"categories\": \"1.0 Update, Gloomrot Update\"}",
+      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10892638, \"categories\": \"1.0 Update, Gloomrot Update\"}",
       "version": "3.2.21"
     },
     {
@@ -1815,7 +1815,7 @@
       "key": "skytech6-CrimsonFAQ",
       "last_sent": null,
       "newest": 1794090605.7197,
-      "pending": "{\"key\": \"skytech6-CrimsonFAQ\", \"name\": \"CrimsonFAQ\", \"owner\": \"skytech6\", \"version\": \"2.1.1\", \"created\": 1794090605.7197, \"website\": \"https://github.com/CrimsonMods/CrimsonFAQ/\", \"description\": \"AutoResponse System\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonFAQ/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonFAQ-2.1.1.png\", \"downloads\": 1678, \"categories\": \"Oakveil Update, Server, 1.0 Update, Mods\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonFAQ\", \"name\": \"CrimsonFAQ\", \"owner\": \"skytech6\", \"version\": \"2.1.1\", \"created\": 1794090605.7197, \"website\": \"https://github.com/CrimsonMods/CrimsonFAQ/\", \"description\": \"AutoResponse System\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonFAQ/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonFAQ-2.1.1.png\", \"downloads\": 1679, \"categories\": \"Oakveil Update, Server, 1.0 Update, Mods\"}",
       "version": "2.1.1"
     },
     {
@@ -1948,7 +1948,7 @@
       "key": "skytech6-VAMP",
       "last_sent": null,
       "newest": 1794083118.843231,
-      "pending": "{\"key\": \"skytech6-VAMP\", \"name\": \"VAMP\", \"owner\": \"skytech6\", \"version\": \"2.0.0\", \"created\": 1794083118.843231, \"website\": \"https://vrising.wiki/\", \"description\": \"V Rising API Modding Platform\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/VAMP/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-VAMP-2.0.0.png\", \"downloads\": 18139, \"categories\": \"Oakveil Update, Server, Mods\"}",
+      "pending": "{\"key\": \"skytech6-VAMP\", \"name\": \"VAMP\", \"owner\": \"skytech6\", \"version\": \"2.0.0\", \"created\": 1794083118.843231, \"website\": \"https://vrising.wiki/\", \"description\": \"V Rising API Modding Platform\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/VAMP/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-VAMP-2.0.0.png\", \"downloads\": 18140, \"categories\": \"Oakveil Update, Server, Mods\"}",
       "version": "2.0.0"
     },
     {
@@ -1983,7 +1983,7 @@
       "key": "zeeCameLsnake-ConVicted",
       "last_sent": null,
       "newest": 1795838203.880147,
-      "pending": "{\"key\": \"zeeCameLsnake-ConVicted\", \"name\": \"ConVicted\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.1.1\", \"created\": 1795838203.880147, \"website\": \"https://www.nexusmods.com/vrising/mods/60\", \"description\": \"Keep your minions (and even fire, if enabled) from killing the targets you pick, keep the floating health bars in Blood Hunger, dim or switch off its red screen, and see when a unit can be subdued and who can't become a servant!\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/ConVicted/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-ConVicted-1.1.1.png\", \"downloads\": 100, \"categories\": \"Oakveil Update, Client, Mods, Server\"}",
+      "pending": "{\"key\": \"zeeCameLsnake-ConVicted\", \"name\": \"ConVicted\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.1.1\", \"created\": 1795838203.880147, \"website\": \"https://www.nexusmods.com/vrising/mods/60\", \"description\": \"Keep your minions (and even fire, if enabled) from killing the targets you pick, keep the floating health bars in Blood Hunger, dim or switch off its red screen, and see when a unit can be subdued and who can't become a servant!\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/ConVicted/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-ConVicted-1.1.1.png\", \"downloads\": 101, \"categories\": \"Oakveil Update, Client, Mods, Server\"}",
       "version": "1.1.1"
     },
     {
