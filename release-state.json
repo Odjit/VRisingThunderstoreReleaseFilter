@@ -72,7 +72,7 @@
       "key": "BLOODLUST-WeaponsOnBLOODLUST",
       "last_sent": null,
       "newest": 1795023771.448411,
-      "pending": "{\"key\": \"BLOODLUST-WeaponsOnBLOODLUST\", \"name\": \"WeaponsOnBLOODLUST\", \"owner\": \"BLOODLUST\", \"version\": \"1.1.0\", \"created\": 1795023771.448411, \"website\": \"https://wargm.ru/server/81982\", \"description\": \"Client-side renamer for the BLOODLUST server: red custom RU/EN weapon names in tooltip, inventory, crafting, shop and Eclipse UI, plus a custom description line.\", \"url\": \"https://thunderstore.io/c/v-rising/p/BLOODLUST/WeaponsOnBLOODLUST/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/BLOODLUST-WeaponsOnBLOODLUST-1.1.0.png\", \"downloads\": 53, \"categories\": \"Client\"}",
+      "pending": "{\"key\": \"BLOODLUST-WeaponsOnBLOODLUST\", \"name\": \"WeaponsOnBLOODLUST\", \"owner\": \"BLOODLUST\", \"version\": \"1.1.0\", \"created\": 1795023771.448411, \"website\": \"https://wargm.ru/server/81982\", \"description\": \"Client-side renamer for the BLOODLUST server: red custom RU/EN weapon names in tooltip, inventory, crafting, shop and Eclipse UI, plus a custom description line.\", \"url\": \"https://thunderstore.io/c/v-rising/p/BLOODLUST/WeaponsOnBLOODLUST/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/BLOODLUST-WeaponsOnBLOODLUST-1.1.0.png\", \"downloads\": 54, \"categories\": \"Client\"}",
       "version": "1.1.0"
     },
     {
@@ -303,7 +303,7 @@
       "key": "FAiNEL-Eclipse_by_FAiNEL",
       "last_sent": null,
       "newest": 1795030962.066226,
-      "pending": "{\"key\": \"FAiNEL-Eclipse_by_FAiNEL\", \"name\": \"Eclipse_by_FAiNEL\", \"owner\": \"FAiNEL\", \"version\": \"1.3.2\", \"created\": 1795030962.066226, \"website\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/Eclipse_by_FAiNEL/\", \"description\": \"QoL UI fixes for EclipsePlus (EclipsePlus by Dinasor included, pre-patched for 1.3.9): Stat Bonuses icons, x1.5 synergy markers, tab glow, 4/4 slots, one-click prestige buttons, 28-type leaderboard, Russian UI, Headgear bonuses + head-slot costume window.\", \"url\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/Eclipse_by_FAiNEL/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/FAiNEL-Eclipse_by_FAiNEL-1.3.2.png\", \"downloads\": 354, \"categories\": \"Client, Mods\"}",
+      "pending": "{\"key\": \"FAiNEL-Eclipse_by_FAiNEL\", \"name\": \"Eclipse_by_FAiNEL\", \"owner\": \"FAiNEL\", \"version\": \"1.3.2\", \"created\": 1795030962.066226, \"website\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/Eclipse_by_FAiNEL/\", \"description\": \"QoL UI fixes for EclipsePlus (EclipsePlus by Dinasor included, pre-patched for 1.3.9): Stat Bonuses icons, x1.5 synergy markers, tab glow, 4/4 slots, one-click prestige buttons, 28-type leaderboard, Russian UI, Headgear bonuses + head-slot costume window.\", \"url\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/Eclipse_by_FAiNEL/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/FAiNEL-Eclipse_by_FAiNEL-1.3.2.png\", \"downloads\": 355, \"categories\": \"Client, Mods\"}",
       "version": "1.3.2"
     },
     {
@@ -324,7 +324,7 @@
       "key": "FAiNEL-faitp",
       "last_sent": null,
       "newest": 1792767789.897916,
-      "pending": "{\"key\": \"FAiNEL-faitp\", \"name\": \"faitp\", \"owner\": \"FAiNEL\", \"version\": \"1.2.2\", \"created\": 1792767789.897916, \"website\": \"https://wargm.ru/server/81982\", \"description\": \"Client-side teleport panel for V Rising: teleport request popup, online players roster, private/public teleport points with create/delete, castle picker for the Dusk Caller, ru/en interface.\", \"url\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/faitp/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/FAiNEL-faitp-1.2.2.png\", \"downloads\": 652, \"categories\": \"Client, Mods\"}",
+      "pending": "{\"key\": \"FAiNEL-faitp\", \"name\": \"faitp\", \"owner\": \"FAiNEL\", \"version\": \"1.2.2\", \"created\": 1792767789.897916, \"website\": \"https://wargm.ru/server/81982\", \"description\": \"Client-side teleport panel for V Rising: teleport request popup, online players roster, private/public teleport points with create/delete, castle picker for the Dusk Caller, ru/en interface.\", \"url\": \"https://thunderstore.io/c/v-rising/p/FAiNEL/faitp/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/FAiNEL-faitp-1.2.2.png\", \"downloads\": 665, \"categories\": \"Client, Mods\"}",
       "version": "1.2.2"
     },
     {
@@ -1024,7 +1024,7 @@
       "key": "Tomato144-PVESieges",
       "last_sent": null,
       "newest": 1793804265.00728,
-      "pending": "{\"key\": \"Tomato144-PVESieges\", \"name\": \"PVESieges\", \"owner\": \"Tomato144\", \"version\": \"1.0.363\", \"created\": 1793804265.00728, \"website\": \"\", \"description\": \"PvE castle sieges: bandits, militia, the Legion and more raid your castle in waves. Sappers bomb your gates, Raid Captains lead the charge, V Blood kills bring revenge raids. Win for loot.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tomato144/PVESieges/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tomato144-PVESieges-1.0.363.png\", \"downloads\": 1650, \"categories\": \"Server, Mods\"}",
+      "pending": "{\"key\": \"Tomato144-PVESieges\", \"name\": \"PVESieges\", \"owner\": \"Tomato144\", \"version\": \"1.0.363\", \"created\": 1793804265.00728, \"website\": \"\", \"description\": \"PvE castle sieges: bandits, militia, the Legion and more raid your castle in waves. Sappers bomb your gates, Raid Captains lead the charge, V Blood kills bring revenge raids. Win for loot.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Tomato144/PVESieges/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Tomato144-PVESieges-1.0.363.png\", \"downloads\": 1651, \"categories\": \"Server, Mods\"}",
       "version": "1.0.363"
     },
     {
@@ -1423,7 +1423,7 @@
       "key": "ebkr-r2modman",
       "last_sent": null,
       "newest": 1793235215.419665,
-      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10894035, \"categories\": \"1.0 Update, Gloomrot Update\"}",
+      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10894316, \"categories\": \"1.0 Update, Gloomrot Update\"}",
       "version": "3.2.21"
     },
     {
@@ -1780,7 +1780,7 @@
       "key": "skytech6-CrimsonChatFilter",
       "last_sent": null,
       "newest": 1794090219.175027,
-      "pending": "{\"key\": \"skytech6-CrimsonChatFilter\", \"name\": \"CrimsonChatFilter\", \"owner\": \"skytech6\", \"version\": \"2.1.1\", \"created\": 1794090219.175027, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Automated Moderation for Server Chat\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonChatFilter/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonChatFilter-2.1.1.png\", \"downloads\": 2382, \"categories\": \"Oakveil Update, Server, 1.0 Update, Mods\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonChatFilter\", \"name\": \"CrimsonChatFilter\", \"owner\": \"skytech6\", \"version\": \"2.1.1\", \"created\": 1794090219.175027, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Automated Moderation for Server Chat\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonChatFilter/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonChatFilter-2.1.1.png\", \"downloads\": 2383, \"categories\": \"Oakveil Update, Server, 1.0 Update, Mods\"}",
       "version": "2.1.1"
     },
     {
@@ -1850,7 +1850,7 @@
       "key": "skytech6-CrimsonKey",
       "last_sent": null,
       "newest": 1794093509.150588,
-      "pending": "{\"key\": \"skytech6-CrimsonKey\", \"name\": \"CrimsonKey\", \"owner\": \"skytech6\", \"version\": \"1.0.4\", \"created\": 1794093509.150588, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Real-time Advanced Server Whitelist Manager\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonKey/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonKey-1.0.4.png\", \"downloads\": 875, \"categories\": \"Oakveil Update, Server, Mods\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonKey\", \"name\": \"CrimsonKey\", \"owner\": \"skytech6\", \"version\": \"1.0.4\", \"created\": 1794093509.150588, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Real-time Advanced Server Whitelist Manager\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonKey/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonKey-1.0.4.png\", \"downloads\": 876, \"categories\": \"Oakveil Update, Server, Mods\"}",
       "version": "1.0.4"
     },
     {
@@ -1983,7 +1983,7 @@
       "key": "zeeCameLsnake-ConVicted",
       "last_sent": null,
       "newest": 1795838203.880147,
-      "pending": "{\"key\": \"zeeCameLsnake-ConVicted\", \"name\": \"ConVicted\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.1.1\", \"created\": 1795838203.880147, \"website\": \"https://www.nexusmods.com/vrising/mods/60\", \"description\": \"Keep your minions (and even fire, if enabled) from killing the targets you pick, keep the floating health bars in Blood Hunger, dim or switch off its red screen, and see when a unit can be subdued and who can't become a servant!\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/ConVicted/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-ConVicted-1.1.1.png\", \"downloads\": 107, \"categories\": \"Oakveil Update, Client, Mods, Server\"}",
+      "pending": "{\"key\": \"zeeCameLsnake-ConVicted\", \"name\": \"ConVicted\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.1.1\", \"created\": 1795838203.880147, \"website\": \"https://www.nexusmods.com/vrising/mods/60\", \"description\": \"Keep your minions (and even fire, if enabled) from killing the targets you pick, keep the floating health bars in Blood Hunger, dim or switch off its red screen, and see when a unit can be subdued and who can't become a servant!\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/ConVicted/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-ConVicted-1.1.1.png\", \"downloads\": 108, \"categories\": \"Oakveil Update, Client, Mods, Server\"}",
       "version": "1.1.1"
     },
     {
