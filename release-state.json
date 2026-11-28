@@ -569,7 +569,7 @@
       "key": "Loto-Grimoire",
       "last_sent": null,
       "newest": 1794073297.027175,
-      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.185\", \"created\": 1794073297.027175, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.185.png\", \"downloads\": 5318, \"categories\": \"Oakveil Update\"}",
+      "pending": "{\"key\": \"Loto-Grimoire\", \"name\": \"Grimoire\", \"owner\": \"Loto\", \"version\": \"2.42.185\", \"created\": 1794073297.027175, \"website\": \"\", \"description\": \"Client-side interface for Reliquary, Voidfall, and PerkShop on compatible V Rising servers.\", \"url\": \"https://thunderstore.io/c/v-rising/p/Loto/Grimoire/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/Loto-Grimoire-2.42.185.png\", \"downloads\": 5317, \"categories\": \"Oakveil Update\"}",
       "version": "2.42.185"
     },
     {
@@ -1423,7 +1423,7 @@
       "key": "ebkr-r2modman",
       "last_sent": null,
       "newest": 1793235215.419665,
-      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10894888, \"categories\": \"1.0 Update, Gloomrot Update\"}",
+      "pending": "{\"key\": \"ebkr-r2modman\", \"name\": \"r2modman\", \"owner\": \"ebkr\", \"version\": \"3.2.21\", \"created\": 1793235215.419665, \"website\": \"https://github.com/ebkr/r2modmanPlus\", \"description\": \"A simple and easy to use mod manager for many games using Thunderstore\", \"url\": \"https://thunderstore.io/c/v-rising/p/ebkr/r2modman/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/ebkr-r2modman-3.2.21.png\", \"downloads\": 10894607, \"categories\": \"1.0 Update, Gloomrot Update\"}",
       "version": "3.2.21"
     },
     {
@@ -1773,7 +1773,7 @@
       "key": "skytech6-CrimsonBanned",
       "last_sent": null,
       "newest": 1794091145.311186,
-      "pending": "{\"key\": \"skytech6-CrimsonBanned\", \"name\": \"CrimsonBanned\", \"owner\": \"skytech6\", \"version\": \"2.1.1\", \"created\": 1794091145.311186, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Ban Moderation Tool: Chat, Voice, Server\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonBanned/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonBanned-2.1.1.png\", \"downloads\": 1206, \"categories\": \"Oakveil Update, Server, 1.0 Update, Mods\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonBanned\", \"name\": \"CrimsonBanned\", \"owner\": \"skytech6\", \"version\": \"2.1.1\", \"created\": 1794091145.311186, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Ban Moderation Tool: Chat, Voice, Server\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonBanned/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonBanned-2.1.1.png\", \"downloads\": 1205, \"categories\": \"Oakveil Update, Server, 1.0 Update, Mods\"}",
       "version": "2.1.1"
     },
     {
@@ -1808,7 +1808,7 @@
       "key": "skytech6-CrimsonEcho",
       "last_sent": null,
       "newest": 1794092489.492121,
-      "pending": "{\"key\": \"skytech6-CrimsonEcho\", \"name\": \"CrimsonEcho\", \"owner\": \"skytech6\", \"version\": \"1.0.6\", \"created\": 1794092489.492121, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Automated Notification System\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonEcho/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonEcho-1.0.6.png\", \"downloads\": 726, \"categories\": \"Oakveil Update, Server, Mods\"}",
+      "pending": "{\"key\": \"skytech6-CrimsonEcho\", \"name\": \"CrimsonEcho\", \"owner\": \"skytech6\", \"version\": \"1.0.6\", \"created\": 1794092489.492121, \"website\": \"https://discord.gg/xzd5U5cNyD\", \"description\": \"Automated Notification System\", \"url\": \"https://thunderstore.io/c/v-rising/p/skytech6/CrimsonEcho/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/skytech6-CrimsonEcho-1.0.6.png\", \"downloads\": 725, \"categories\": \"Oakveil Update, Server, Mods\"}",
       "version": "1.0.6"
     },
     {
@@ -2004,21 +2004,21 @@
       "key": "zeeCameLsnake-Solo_Pause",
       "last_sent": null,
       "newest": 1795450996.548689,
-      "pending": "{\"key\": \"zeeCameLsnake-Solo_Pause\", \"name\": \"Solo_Pause\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.1.0\", \"created\": 1795450996.548689, \"website\": \"https://www.nexusmods.com/vrising/mods/56\", \"description\": \"Need a break? Just press ESC: the world pauses automatically while the menu is open and resumes when you close it. No more clicking Pause every time. For solo and local games.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/Solo_Pause/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-Solo_Pause-1.1.0.png\", \"downloads\": 242, \"categories\": \"Oakveil Update, Client, 1.0 Update, Mods\"}",
+      "pending": "{\"key\": \"zeeCameLsnake-Solo_Pause\", \"name\": \"Solo_Pause\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.1.0\", \"created\": 1795450996.548689, \"website\": \"https://www.nexusmods.com/vrising/mods/56\", \"description\": \"Need a break? Just press ESC: the world pauses automatically while the menu is open and resumes when you close it. No more clicking Pause every time. For solo and local games.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/Solo_Pause/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-Solo_Pause-1.1.0.png\", \"downloads\": 241, \"categories\": \"Oakveil Update, Client, 1.0 Update, Mods\"}",
       "version": "1.1.0"
     },
     {
       "key": "zeeCameLsnake-V_Blood_Tracker",
       "last_sent": null,
       "newest": 1795824985.402939,
-      "pending": "{\"key\": \"zeeCameLsnake-V_Blood_Tracker\", \"name\": \"V_Blood_Tracker\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.1.0\", \"created\": 1795824985.402939, \"website\": \"https://www.nexusmods.com/vrising/mods/50\", \"description\": \"Shows the live direction and distance in meters to the tracked V Blood in the HUD tracking line, and lets you choose how often the blood trail appears.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/V_Blood_Tracker/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-V_Blood_Tracker-1.1.0.png\", \"downloads\": 432, \"categories\": \"Oakveil Update, Client, Mods\"}",
+      "pending": "{\"key\": \"zeeCameLsnake-V_Blood_Tracker\", \"name\": \"V_Blood_Tracker\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.1.0\", \"created\": 1795824985.402939, \"website\": \"https://www.nexusmods.com/vrising/mods/50\", \"description\": \"Shows the live direction and distance in meters to the tracked V Blood in the HUD tracking line, and lets you choose how often the blood trail appears.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/V_Blood_Tracker/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-V_Blood_Tracker-1.1.0.png\", \"downloads\": 431, \"categories\": \"Oakveil Update, Client, Mods\"}",
       "version": "1.1.0"
     },
     {
       "key": "zeeCameLsnake-Vampire_Auras",
       "last_sent": null,
       "newest": 1795798427.915287,
-      "pending": "{\"key\": \"zeeCameLsnake-Vampire_Auras\", \"name\": \"Vampire_Auras\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.0\", \"created\": 1795798427.915287, \"website\": \"https://www.nexusmods.com/vrising/mods/63\", \"description\": \"Keep your cooldowns in sight: place copies of your ability bar slots anywhere on your screen, right where you look during a fight. They pulse, glow, flash and chime the moment an ability is ready.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/Vampire_Auras/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-Vampire_Auras-1.0.0.png\", \"downloads\": 19, \"categories\": \"Oakveil Update, Client, Mods, Server\"}",
+      "pending": "{\"key\": \"zeeCameLsnake-Vampire_Auras\", \"name\": \"Vampire_Auras\", \"owner\": \"zeeCameLsnake\", \"version\": \"1.0.0\", \"created\": 1795798427.915287, \"website\": \"https://www.nexusmods.com/vrising/mods/63\", \"description\": \"Keep your cooldowns in sight: place copies of your ability bar slots anywhere on your screen, right where you look during a fight. They pulse, glow, flash and chime the moment an ability is ready.\", \"url\": \"https://thunderstore.io/c/v-rising/p/zeeCameLsnake/Vampire_Auras/\", \"icon\": \"https://ccdn.thunderstore.io/live/repository/icons/zeeCameLsnake-Vampire_Auras-1.0.0.png\", \"downloads\": 18, \"categories\": \"Oakveil Update, Client, Mods, Server\"}",
       "version": "1.0.0"
     },
     {
